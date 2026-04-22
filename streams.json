@@ -1,0 +1,1734 @@
+{
+  "streams": [
+    {
+      "stream_name": "Science (PCM - Physics, Chemistry, Mathematics)",
+      "description": "Focuses on technology, engineering, data science, and non-medical scientific fields. Ideal for students with strong analytical and problem-solving skills and an interest in mathematics and logic.",
+      "core_subjects": [
+        {
+          "subject": "Physics",
+          "topics": [
+            "Physical World and Measurement",
+            "Mechanics (Kinematics, Laws of Motion, Work, Energy, Power, System of Particles, Rotational Motion, Gravitation)",
+            "Properties of Bulk Matter (Elasticity, Fluid Mechanics, Surface Tension, Viscosity, Thermal Properties of Matter)",
+            "Thermodynamics (Heat, Temperature, Laws of Thermodynamics, Kinetic Theory of Gases)",
+            "Oscillations and Waves (Simple Harmonic Motion, Doppler Effect, Wave Optics)",
+            "Electrostatics (Electric Charges, Fields, Potential, Capacitance)",
+            "Current Electricity (Ohm's Law, Circuits, Kirchhoff's Laws, Electrical Instruments)",
+            "Magnetic Effects of Current and Magnetism (Magnetic Fields, Forces, Torque, Earth's Magnetism)",
+            "Electromagnetic Induction and AC (Faraday's Law, Lenz's Law, AC Circuits, Transformers)",
+            "Electromagnetic Waves",
+            "Optics (Ray Optics, Reflection, Refraction, Lenses, Prisms, Microscopes, Telescopes)",
+            "Modern Physics (Dual Nature of Matter, Photoelectric Effect, Atoms, Nuclei, Radioactivity)",
+            "Electronic Devices (Semiconductors, Diodes, Transistors, Logic Gates)",
+            "Communication Systems"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Basic Concepts (Mole Concept, Stoichiometry, Atomic Structure, Periodicity)",
+            "Chemical Bonding and Molecular Structure (VSEPR, Hybridization, VBT, MOT)",
+            "States of Matter (Gases, Liquids, Solids)",
+            "Thermodynamics and Equilibrium (Enthalpy, Entropy, Gibbs Free Energy, Chemical Equilibrium, Ionic Equilibrium)",
+            "Redox Reactions and Electrochemistry (Electrochemical Cells, Nernst Equation, Electrolysis)",
+            "Chemical Kinetics (Rate of Reaction, Order of Reaction, Arrhenius Equation)",
+            "Solutions (Colligative Properties, Vapour Pressure)",
+            "Surface Chemistry (Adsorption, Colloids, Emulsions)",
+            "Metallurgy (Principles and Processes of Isolation of Elements)",
+            "s-Block, p-Block, d-Block, and f-Block Elements (Hydrogen, Alkali Metals, Alkaline Earth Metals, Boron, Carbon, Nitrogen, Oxygen, Halogen, Noble Gases, Transition Metals)",
+            "Coordination Compounds (Nomenclature, Isomerism, VBT, CFT)",
+            "Organic Chemistry - Basic Principles (GOC, Nomenclature, Isomerism, Reaction Mechanisms)",
+            "Hydrocarbons (Alkanes, Alkenes, Alkynes, Arenes, Aromaticity)",
+            "Organic Compounds Containing Halogens (Haloalkanes, Haloarenes)",
+            "Organic Compounds Containing Oxygen (Alcohols, Phenols, Ethers, Aldehydes, Ketones, Carboxylic Acids)",
+            "Organic Compounds Containing Nitrogen (Amines, Cyanides, Isocyanides, Diazonium Salts)",
+            "Biomolecules (Carbohydrates, Proteins, Vitamins, Nucleic Acids, Enzymes)",
+            "Polymers (Classification, Polymerization, Common Polymers)",
+            "Chemistry in Everyday Life (Drugs, Soaps, Detergents, Food Preservatives)"
+          ]
+        },
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Sets and Functions (Sets, Relations, Functions, Trigonometric Functions, Inverse Trigonometric Functions)",
+            "Algebra (Principle of Mathematical Induction, Complex Numbers, Quadratic Equations, Linear Inequalities, Permutations, Combinations, Binomial Theorem, Sequences and Series, Matrices, Determinants)",
+            "Coordinate Geometry (Straight Lines, Conic Sections - Circle, Parabola, Ellipse, Hyperbola, 3D Geometry)",
+            "Calculus (Limits, Derivatives, Continuity and Differentiability, Application of Derivatives, Integrals, Application of Integrals, Differential Equations)",
+            "Vectors and 3D Geometry (Vectors, Scalar and Vector Products, Lines, Planes)",
+            "Linear Programming (LPP)",
+            "Mathematical Reasoning",
+            "Statistics and Probability (Mean, Median, Mode, Variance, Standard Deviation, Correlation, Regression, Probability, Conditional Probability, Bayes' Theorem, Probability Distributions)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Reading Comprehension (Unseen Passages, Note Making, Summarizing)",
+            "Writing Skills (Notice, Letter Writing - Formal/Informal, Report Writing, Article, Speech, Debate, Resume, Job Application)",
+            "Grammar (Tenses, Modals, Voice, Narration, Clauses, Transformation of Sentences)",
+            "Literature (Prose, Poetry, Supplementary Reader)"
+          ]
+        },
+        {
+          "subject": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+          "topics": [
+            "Computer Science: (Computer Systems, Python/C++/Java Programming, Data Structures - Lists, Stacks, Queues, DBMS, SQL, Computer Networks, Cyber Ethics, Cyber Safety)",
+            "Informatics Practices: (Python, Pandas, NumPy, Matplotlib, Data Visualization, DBMS, SQL, Computer Networks, Societal Impacts)",
+            "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods, Health and Nutrition, Yoga)",
+            "Economics: (Microeconomics, Macroeconomics, Statistics for Economics, Indian Economic Development)",
+            "Psychology: (Introduction to Psychology, Methods, Human Development, Sensory Processes, Learning, Memory, Motivation)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Engineering",
+          "specializations": [
+            "Computer Science Engineer",
+            "Software Developer / Engineer",
+            "Mechanical Engineer",
+            "Civil Engineer",
+            "Electrical Engineer",
+            "Electronics and Communication Engineer",
+            "Aerospace Engineer",
+            "Aeronautical Engineer",
+            "Chemical Engineer",
+            "Robotics Engineer",
+            "AI/ML Engineer",
+            "Automobile Engineer",
+            "Industrial Engineer",
+            "Environmental Engineer",
+            "Biomedical Engineer",
+            "Mechatronics Engineer",
+            "Marine Engineer",
+            "Petroleum Engineer",
+            "Metallurgical Engineer"
+          ]
+        },
+        {
+          "career": "Information Technology (IT) & Software",
+          "specializations": [
+            "Full Stack Developer",
+            "Backend Developer",
+            "Frontend Developer",
+            "Cloud Architect / Engineer (AWS, Azure, GCP)",
+            "DevOps Engineer",
+            "Database Administrator (DBA)",
+            "Systems Analyst",
+            "IT Manager",
+            "Network Administrator",
+            "Hardware and Networking Engineer",
+            "Technical Support Engineer"
+          ]
+        },
+        {
+          "career": "Data Science and Analytics",
+          "specializations": [
+            "Data Scientist",
+            "Data Analyst",
+            "Business Analyst",
+            "Machine Learning Scientist",
+            "Business Intelligence (BI) Analyst",
+            "Data Architect",
+            "Big Data Engineer",
+            "Quantitative Analyst ('Quant')"
+          ]
+        },
+        {
+          "career": "Cybersecurity",
+          "specializations": [
+            "Ethical Hacker",
+            "Cybersecurity Analyst",
+            "Network Security Engineer",
+            "Information Security Manager",
+            "Penetration Tester (Pen Tester)",
+            "Security Architect",
+            "Incident Responder",
+            "Digital Forensics Analyst",
+            "Chief Information Security Officer (CISO)"
+          ]
+        },
+        {
+          "career": "Physical Sciences and Research",
+          "specializations": [
+            "Physicist",
+            "Chemist",
+            "Researcher (Academic/Industrial)",
+            "Astrophysicist",
+            "Geologist",
+            "Forensic Scientist",
+            "Meteorologist",
+            "Oceanographer",
+            "Materials Scientist",
+            "Nanotechnologist",
+            "Scientific Writer / Editor"
+          ]
+        },
+        {
+          "career": "Architecture and Planning",
+          "specializations": [
+            "Architect",
+            "Urban Planner / Urban Designer",
+            "Landscape Architect",
+            "Interior Designer",
+            "Sustainable / Green Architect",
+            "Conservation Architect",
+            "Industrial Designer"
+          ]
+        },
+        {
+          "career": "Defence and Aviation",
+          "specializations": [
+            "Officer in Army (NDA, TES)",
+            "Officer in Navy (NDA, 10+2 B.Tech Cadet Entry)",
+            "Officer in Air Force (NDA - Flying/Ground Duty)",
+            "Commercial Pilot",
+            "Air Traffic Controller",
+            "Aeronautical Engineer (Maintenance)",
+            "Aircraft Maintenance Engineer (AME)",
+            "Drone Pilot / UAV Operator"
+          ]
+        },
+        {
+          "career": "Finance, Economics, and Actuarial Science",
+          "specializations": [
+            "Actuary",
+            "Investment Banker",
+            "Financial Analyst (CFA)",
+            "Economist",
+            "Statistician",
+            "Risk Manager",
+            "Data Scientist (Finance)",
+            "Chartered Accountant (CA)",
+            "Cost and Management Accountant (CMA)"
+          ]
+        },
+        {
+          "career": "Design and Creative Fields",
+          "specializations": [
+            "UI/UX Designer",
+            "Game Developer / Programmer",
+            "Game Designer",
+            "3D Modeler / Animator",
+            "VFX Artist",
+            "Product Designer",
+            "Automobile Designer",
+            "Fashion Technologist (B.F.Tech)"
+          ]
+        },
+        {
+          "career": "Management, Business, and Law",
+          "specializations": [
+            "Management Consultant",
+            "Business Analyst",
+            "Project Manager (PMP)",
+            "Operations Manager",
+            "Supply Chain Manager",
+            "Technical Sales Manager",
+            "Patent Lawyer (requires LLB)",
+            "Cyber Lawyer (requires LLB)",
+            "Corporate Lawyer"
+          ]
+        },
+        {
+          "career": "Merchant Navy",
+          "specializations": [
+            "Deck Officer (Captain, Chief Mate)",
+            "Marine Engineer (Chief Engineer)",
+            "Electro-Technical Officer (ETO)",
+            "Nautical Surveyor"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+          "degrees": [
+            "B.Tech in Computer Science",
+            "B.E. in Mechanical Engineering",
+            "B.Tech in AI & ML",
+            "B.E. in Civil Engineering",
+            "B.Tech in Aerospace Engineering",
+            "B.Tech in Information Technology",
+            "B.E. in Electrical Engineering (EEE)",
+            "B.Tech in Electronics and Communication (ECE)",
+            "B.Tech in Chemical Engineering",
+            "B.Tech in Data Science",
+            "B.Tech in Cybersecurity",
+            "B.E. in Automobile Engineering",
+            "B.Tech in Mechatronics",
+            "B.Tech in Biotechnology (Maths-based)",
+            "B.Tech in Industrial Engineering"
+          ]
+        },
+        {
+          "path": "Bachelor of Architecture (B.Arch)",
+          "degrees": [
+            "B.Arch (5-year program)",
+            "B.Plan (Bachelor of Planning)"
+          ]
+        },
+        {
+          "path": "Bachelor of Science (B.Sc.)",
+          "degrees": [
+            "B.Sc. (Honours) in Physics",
+            "B.Sc. (Honours) in Chemistry",
+            "B.Sc. (Honours) in Mathematics",
+            "B.Sc. in Computer Science",
+            "B.Sc. in Data Science",
+            "B.Sc. in Statistics",
+            "B.Sc. in Geology",
+            "B.Sc. in Electronics",
+            "B.Sc. in Economics",
+            "B.Sc. in Actuarial Science",
+            "B.Sc. in Nautical Science (for Merchant Navy)",
+            "B.Sc. in Animation and VFX",
+            "B.Sc. in Information Technology (IT)"
+          ]
+        },
+        {
+          "path": "Computer Applications",
+          "degrees": [
+            "BCA (Bachelor of Computer Applications)",
+            "BCA (Honours)",
+            "Integrated MCA (5-year program)"
+          ]
+        },
+        {
+          "path": "Defence Academies (Commissioned Officer)",
+          "degrees": [
+            "National Defence Academy (NDA) (Army, Navy, Air Force)",
+            "Indian Naval Academy (INA) - 10+2 B.Tech Cadet Entry"
+          ]
+        },
+        {
+          "path": "Business, Finance, and Economics",
+          "degrees": [
+            "BBA (Bachelor of Business Administration)",
+            "BMS (Bachelor of Management Studies)",
+            "B.Com (Honours)",
+            "B.A. / B.Sc. (Honours) in Economics",
+            "BBE (Bachelor of Business Economics)",
+            "B.Sc. in Actuarial Science"
+          ]
+        },
+        {
+          "path": "Design Courses (via UCEED/NID)",
+          "degrees": [
+            "B.Des (Bachelor of Design) - (Product, Animation, UI/UX)",
+            "B.F.Tech (Bachelor of Fashion Technology)"
+          ]
+        },
+        {
+          "path": "Integrated Law Courses",
+          "degrees": [
+            "B.Tech + LLB (Honours) (Specialized in Patent or Cyber Law)",
+            "B.Sc. + LLB (Honours) (Specialized in Forensic or Environmental Law)",
+            "BBA + LLB (Honours) (Corporate Law)"
+          ]
+        },
+        {
+          "path": "Aviation and Pilot Training",
+          "degrees": [
+            "Commercial Pilot License (CPL) from a flying school",
+            "B.Sc. in Aviation",
+            "Aircraft Maintenance Engineering (AME) (Diploma/Degree)"
+          ]
+        },
+        {
+          "path": "Professional Certifications (Post-12th)",
+          "degrees": [
+            "CA (Chartered Accountancy) (Foundation Route)",
+            "CS (Company Secretary) (Foundation Route)",
+            "CMA (Cost and Management Accountancy) (Foundation Route)",
+            "Actuarial Science (via IAI exams)"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Science (PCB - Physics, Chemistry, Biology)",
+      "description": "Focuses on medical sciences, life sciences, and paramedical fields. Ideal for students with strong empathy, aspiring to careers in healthcare, and with a keen interest in biological research.",
+      "core_subjects": [
+        {
+          "subject": "Physics",
+          "topics": [
+            "Physical World and Measurement",
+            "Mechanics (Kinematics, Laws of Motion, Work, Energy, Power, System of Particles, Rotational Motion, Gravitation)",
+            "Properties of Bulk Matter (Elasticity, Fluid Mechanics, Surface Tension, Viscosity, Thermal Properties of Matter)",
+            "Thermodynamics (Heat, Temperature, Laws of Thermodynamics, Kinetic Theory of Gases)",
+            "Oscillations and Waves (Simple Harmonic Motion, Doppler Effect, Wave Optics)",
+            "Electrostatics (Electric Charges, Fields, Potential, Capacitance)",
+            "Current Electricity (Ohm's Law, Circuits, Kirchhoff's Laws, Electrical Instruments)",
+            "Magnetic Effects of Current and Magnetism (Magnetic Fields, Forces, Torque)",
+            "Electromagnetic Induction and AC (Faraday's Law, Lenz's Law, AC Circuits)",
+            "Electromagnetic Waves",
+            "Optics (Ray Optics, Reflection, Refraction, Lenses, Prisms, Microscopes, Telescopes)",
+            "Modern Physics (Dual Nature of Matter, Photoelectric Effect, Atoms, Nuclei, Radioactivity)",
+            "Electronic Devices (Semiconductors, Diodes, Transistors)"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Basic Concepts (Mole Concept, Stoichiometry, Atomic Structure, Periodicity)",
+            "Chemical Bonding and Molecular Structure (VSEPR, Hybridization, VBT, MOT)",
+            "States of Matter (Gases, Liquids, Solids)",
+            "Thermodynamics and Equilibrium (Enthalpy, Entropy, Gibbs Free Energy, Chemical Equilibrium, Ionic Equilibrium)",
+            "Redox Reactions and Electrochemistry (Electrochemical Cells, Nernst Equation, Electrolysis)",
+            "Chemical Kinetics (Rate of Reaction, Order of Reaction, Arrhenius Equation)",
+            "Solutions (Colligative Properties, Vapour Pressure)",
+            "Surface Chemistry (Adsorption, Colloids, Emulsions)",
+            "Metallurgy (Principles and Processes of Isolation of Elements)",
+            "s-Block, p-Block, d-Block, and f-Block Elements",
+            "Coordination Compounds (Nomenclature, Isomerism, VBT, CFT)",
+            "Organic Chemistry - Basic Principles (GOC, Nomenclature, Isomerism, Reaction Mechanisms)",
+            "Hydrocarbons (Alkanes, Alkenes, Alkynes, Arenes)",
+            "Organic Compounds Containing Halogens, Oxygen, Nitrogen (Alcohols, Phenols, Ethers, Aldehydes, Ketones, Carboxylic Acids, Amines, Diazonium Salts)",
+            "Biomolecules (Carbohydrates, Proteins, Vitamins, Nucleic Acids, Enzymes, Hormones)",
+            "Polymers (Classification, Polymerization, Common Polymers)",
+            "Chemistry in Everyday Life (Drugs, Medicines, Soaps, Detergents, Food Preservatives)"
+          ]
+        },
+        {
+          "subject": "Biology",
+          "topics": [
+            "The Living World (Diversity, Taxonomy, Classification)",
+            "Biological Classification (Kingdoms - Monera, Protista, Fungi, Plantae, Animalia, Viruses, Viroids, Lichens)",
+            "Plant Kingdom (Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms)",
+            "Animal Kingdom (Classification, Phyla from Porifera to Chordata)",
+            "Morphology and Anatomy of Flowering Plants (Root, Stem, Leaf, Flower, Fruit, Tissues)",
+            "Structural Organisation in Animals (Tissues, Cockroach/Earthworm/Frog Anatomy)",
+            "Cell: The Unit of Life (Cell Theory, Prokaryotic vs Eukaryotic, Cell Organelles, Cell Membrane, Cell Wall)",
+            "Biomolecules (Primary and Secondary Metabolites, Proteins, Polysaccharides, Nucleic Acids, Lipids, Enzymes)",
+            "Cell Cycle and Cell Division (Mitosis, Meiosis)",
+            "Plant Physiology (Transport in Plants, Mineral Nutrition, Photosynthesis, Respiration, Plant Growth and Development)",
+            "Human Physiology (Digestion and Absorption, Breathing and Respiration, Body Fluids and Circulation, Excretory Products and Elimination, Locomotion and Movement, Neural Control and Coordination, Chemical Coordination and Integration - Hormones)",
+            "Reproduction (Reproduction in Organisms, Sexual Reproduction in Flowering Plants, Human Reproduction, Reproductive Health)",
+            "Genetics and Evolution (Mendelian Inheritance, Chromosomal Theory, Sex Determination, Linkage and Recombination, Molecular Basis of Inheritance - DNA, RNA, Genetic Code, Gene Expression, Human Genome Project, DNA Fingerprinting, Evolution - Theories and Evidence)",
+            "Biology and Human Welfare (Health and Disease, Immunity, AIDS, Cancer, Drugs, Microbes in Human Welfare - Household, Industrial, Sewage Treatment, Biogas)",
+            "Biotechnology (Principles and Processes, Recombinant DNA Technology, Applications in Agriculture, Medicine, Transgenic Animals)",
+            "Ecology and Environment (Organisms and Populations, Ecosystems, Biodiversity and Conservation, Environmental Issues - Pollution, Climate Change)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Reading Comprehension (Unseen Passages, Note Making, Summarizing)",
+            "Writing Skills (Notice, Letter Writing - Formal/Informal, Report Writing, Article, Speech, Debate, Resume, Job Application)",
+            "Grammar (Tenses, Modals, Voice, Narration, Clauses, Transformation of Sentences)",
+            "Literature (Prose, Poetry, Supplementary Reader)"
+          ]
+        },
+        {
+          "subject": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+          "topics": [
+            "Psychology: (What is Psychology?, Methods of Enquiry, Human Development, Sensory Processes, Learning, Human Memory, Motivation and Emotion, Psychological Disorders)",
+            "Biotechnology: (Recombinant DNA Technology, Genetic Engineering, Industrial Biotechnology, Bioinformatics Basics)",
+            "Home Science: (Human Development, Nutrition, Resource Management, Textiles and Apparel, Communication and Extension)",
+            "Mathematics: (See PCM topics, often chosen for B.Tech in Biotechnology or Bioinformatics)",
+            "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods, Health and Nutrition)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Medical Doctor (Physician/Surgeon)",
+          "specializations": [
+            "MBBS (General Physician, Surgeon)",
+            "MD (Doctor of Medicine - Specialist, e.g., Cardiologist, Dermatologist, Neurologist, Pediatrician)",
+            "MS (Master of Surgery - Specialist, e.g., Orthopaedic Surgeon, Neurosurgeon, ENT Surgeon)"
+          ]
+        },
+        {
+          "career": "Dentistry",
+          "specializations": [
+            "BDS (Dentist)",
+            "MDS (Master of Dental Surgery - e.g., Orthodontist, Endodontist, Prosthodontist, Oral Surgeon)"
+          ]
+        },
+        {
+          "career": "AYUSH (Alternative Medicine)",
+          "specializations": [
+            "BAMS (Ayurvedic Doctor)",
+            "BHMS (Homeopathic Doctor)",
+            "BUMS (Unani Doctor)",
+            "BNYS (Naturopathy and Yogic Sciences Doctor)",
+            "BSMS (Siddha Doctor)"
+          ]
+        },
+        {
+          "career": "Pharmacy",
+          "specializations": [
+            "Pharmacist (Retail, Hospital, Clinical)",
+            "Drug Researcher / Scientist (R&D)",
+            "Pharmacovigilance Associate",
+            "Regulatory Affairs Specialist",
+            "Medical Representative",
+            "Industrial Pharmacist (Manufacturing, Quality Control)",
+            "Drug Inspector"
+          ]
+        },
+        {
+          "career": "Nursing",
+          "specializations": [
+            "Registered Nurse (RN)",
+            "Staff Nurse",
+            "Critical Care Nurse (ICU)",
+            "Pediatric Nurse",
+            "Psychiatric Nurse",
+            "Operation Theatre (OT) Nurse",
+            "Nurse Educator / Professor",
+            "Military Nurse (MNS)",
+            "Nurse Supervisor / Administrator"
+          ]
+        },
+        {
+          "career": "Allied Health Sciences (Paramedical)",
+          "specializations": [
+            "Physiotherapist",
+            "Occupational Therapist",
+            "Radiology Technician / Radiographer",
+            "Medical Lab Technician (MLT)",
+            "Operation Theatre Technician (OTT)",
+            "Optometrist (Eye Care Specialist)",
+            "Dialysis Technician",
+            "Anaesthesia Technician",
+            "Perfusionist (Heart-Lung Machine Operator)",
+            "Audiologist and Speech-Language Pathologist (ASLP)",
+            "Cardiac Care Technician",
+            "Paramedic (Emergency Medical Technician)"
+          ]
+        },
+        {
+          "career": "Life Sciences and Research",
+          "specializations": [
+            "Biotechnologist (Genetic Engineering, Industrial)",
+            "Microbiologist",
+            "Geneticist",
+            "Botanist",
+            "Zoologist",
+            "Forensic Scientist",
+            "Environmental Scientist",
+            "Bioinformatics Specialist",
+            "Virologist",
+            "Immunologist",
+            "Biochemist",
+            "Marine Biologist",
+            "Toxicologist",
+            "Food Technologist / Food Scientist",
+            "Researcher (Academic/Corporate - PhD required)"
+          ]
+        },
+        {
+          "career": "Veterinary Science",
+          "specializations": [
+            "Veterinarian (Animal Doctor)",
+            "Veterinary Surgeon",
+            "Veterinary Pathologist",
+            "Veterinary Researcher",
+            "Animal Nutritionist",
+            "Wildlife Veterinarian"
+          ]
+        },
+        {
+          "career": "Nutrition and Dietetics",
+          "specializations": [
+            "Clinical Nutritionist / Dietician (Hospital)",
+            "Public Health Nutritionist",
+            "Sports Nutritionist",
+            "Health Coach / Wellness Consultant",
+            "Food Scientist",
+            "Food Safety Officer"
+          ]
+        },
+        {
+          "career": "Psychology and Counselling",
+          "specializations": [
+            "Clinical Psychologist (with RCI license)",
+            "Counselling Psychologist",
+            "School Counsellor",
+            "Organizational Psychologist",
+            "Neuropsychologist",
+            "Therapist"
+          ]
+        },
+        {
+          "career": "Healthcare Management",
+          "specializations": [
+            "Hospital Administrator",
+            "Healthcare Manager",
+            "Health Information Manager",
+            "Medical Tourism Coordinator",
+            "Healthcare IT Specialist",
+            "Pharmaceutical Project Manager"
+          ]
+        },
+        {
+          "career": "Agriculture and Allied Fields",
+          "specializations": [
+            "Agricultural Scientist",
+            "Horticulturist",
+            "Fisheries Scientist",
+            "Sericulturist (Silk Farming)",
+            "Floriculturist",
+            "Aquaculturist"
+          ]
+        },
+        {
+          "career": "Education and Writing",
+          "specializations": [
+            "Biology Teacher (School)",
+            "Professor of Life Sciences (College/University)",
+            "Medical Writer / Scientific Writer",
+            "Medical Coder",
+            "Science Journalist"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Medical/Dental Degrees (via NEET)",
+          "degrees": [
+            "MBBS (Bachelor of Medicine, Bachelor of Surgery)",
+            "BDS (Bachelor of Dental Surgery)"
+          ]
+        },
+        {
+          "path": "AYUSH Degrees (Alternative Medicine)",
+          "degrees": [
+            "BAMS (Bachelor of Ayurvedic Medicine and Surgery)",
+            "BHMS (Bachelor of Homeopathic Medicine and Surgery)",
+            "BUMS (Bachelor of Unani Medicine and Surgery)",
+            "BNYS (Bachelor of Naturopathy and Yogic Sciences)"
+          ]
+        },
+        {
+          "path": "Paramedical Degrees (Bachelor Level)",
+          "degrees": [
+            "B.Sc. in Nursing",
+            "B.Pharm (Bachelor of Pharmacy)",
+            "BPT (Bachelor of Physiotherapy)",
+            "BOT (Bachelor of Occupational Therapy)",
+            "B.Sc. in Medical Lab Technology (MLT)",
+            "B.Sc. in Radiology / Imaging Technology",
+            "B.Sc. in Optometry (B.Optom)",
+            "B.Sc. in Anaesthesia Technology",
+            "B.Sc. in Dialysis Technology",
+            "B.Sc. in Perfusion Technology",
+            "B.Sc. in Cardiac Care Technology",
+            "BASLP (Bachelor of Audiology and Speech-Language Pathology)"
+          ]
+        },
+        {
+          "path": "Veterinary Science",
+          "degrees": [
+            "B.V.Sc & AH (Bachelor of Veterinary Science and Animal Husbandry)"
+          ]
+        },
+        {
+          "path": "Bachelor of Science (B.Sc.) in Life Sciences",
+          "degrees": [
+            "B.Sc. in Biology / Life Sciences",
+            "B.Sc. (Honours) in Botany",
+            "B.Sc. (Honours) in Zoology",
+            "B.Sc. in Biotechnology",
+            "B.Sc. in Microbiology",
+            "B.Sc. in Genetics",
+            "B.Sc. in Biochemistry",
+            "B.Sc. in Bioinformatics",
+            "B.Sc. in Environmental Science",
+            "B.Sc. in Marine Biology"
+          ]
+        },
+        {
+          "path": "Bachelor of Science (B.Sc.) in Applied Sciences",
+          "degrees": [
+            "B.Sc. in Forensic Science",
+            "B.Sc. in Nutrition and Dietetics",
+            "B.Sc. in Home Science",
+            "B.Sc. in Food Technology",
+            "B.Sc. in Psychology"
+          ]
+        },
+        {
+          "path": "Agriculture and Allied Degrees",
+          "degrees": [
+            "B.Sc. in Agriculture",
+            "B.Sc. in Horticulture",
+            "B.Sc. in Forestry",
+            "B.F.Sc. (Bachelor of Fisheries Science)",
+            "B.Sc. in Sericulture",
+            "B.Tech in Biotechnology (if Maths was optional or via specific exams)",
+            "B.Tech in Food Technology"
+          ]
+        },
+        {
+          "path": "Management and Law (Integrated)",
+          "degrees": [
+            "BBA in Hospital Administration / Healthcare Management",
+            "B.A. or B.Sc. in Psychology",
+            "B.Sc. LLB (Honours) (Specialized in Medical/Forensic/Environmental Law)"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Commerce",
+      "description": "Focuses on business, finance, accounting, and economics. Ideal for students interested in corporate careers, financial markets, entrepreneurship, and management.",
+      "core_subjects": [
+        {
+          "subject": "Accountancy",
+          "topics": [
+            "Introduction to Accounting (Objectives, Terminology, Principles, Concepts, GAAP)",
+            "Theory Base of Accounting (Accounting Standards - Ind AS/IFRS basics)",
+            "Recording of Transactions (Journal, Ledger, Cash Book, Subsidiary Books)",
+            "Trial Balance and Rectification of Errors",
+            "Bank Reconciliation Statement (BRS)",
+            "Depreciation, Provisions, and Reserves",
+            "Bills of Exchange (Promissory Notes, Accommodation Bills)",
+            "Financial Statements of Sole Proprietorship (Trading Account, Profit & Loss, Balance Sheet)",
+            "Accounting for Not-for-Profit Organizations (NPO)",
+            "Partnership Firms (Fundamentals, Admission, Retirement, Death, Dissolution, Goodwill)",
+            "Company Accounts (Issue of Shares, Forfeiture, Re-issue, Issue of Debentures)",
+            "Analysis of Financial Statements (Comparative Statements, Common-Size Statements, Ratio Analysis - Liquidity, Solvency, Activity, Profitability)",
+            "Cash Flow Statement (Operating, Investing, Financing Activities)",
+            "Computerised Accounting (Introduction to Tally/ERP systems, Database concepts)"
+          ]
+        },
+        {
+          "subject": "Business Studies",
+          "topics": [
+            "Foundations of Business (Nature and Purpose of Business, History of Trade)",
+            "Forms of Business Organisations (Sole Proprietorship, Partnership, Company, Cooperative, HUF)",
+            "Public, Private, and Global Enterprises (MNCs, Public Sector, Joint Ventures)",
+            "Business Services (Banking, Insurance, Warehousing, Postal, Telecom)",
+            "Emerging Modes of Business (E-Business, BPO, KPO, Outsourcing)",
+            "Social Responsibility and Business Ethics (CSR, Environmental Protection)",
+            "Sources of Business Finance (Owned Funds, Borrowed Funds, Equity, Debt, Retained Earnings)",
+            "Small Business and Entrepreneurship (Start-up India, MSME, Intellectual Property Rights - IPR)",
+            "Internal Trade (Wholesale, Retail, GST)",
+            "International Business (Export-Import Procedures, WTO, Foreign Trade)",
+            "Nature and Significance of Management (Principles, Levels, Functions)",
+            "Principles of Management (Fayol's 14 Principles, Taylor's Scientific Management)",
+            "Business Environment (Dimensions: Economic, Social, Legal, Political, Technological)",
+            "Planning (Process, Types of Plans)",
+            "Organising (Structure, Delegation, Decentralization)",
+            "Staffing (Recruitment, Selection, Training, Development)",
+            "Directing (Motivation - Maslow's Hierarchy, Leadership, Communication)",
+            "Controlling (Process, Techniques)",
+            "Financial Management (Investment, Financing, Dividend Decisions, Capital Structure, Working Capital)",
+            "Financial Markets (Money Market - Instruments, Capital Market - Primary/Secondary, SEBI)",
+            "Marketing Management (Functions, Marketing Mix - 4Ps: Product, Price, Place, Promotion, Branding, Labelling)",
+            "Consumer Protection (Consumer Rights, Responsibilities, CPA 2019, Grievance Redressal)"
+          ]
+        },
+        {
+          "subject": "Economics",
+          "topics": [
+            "Microeconomics (Introduction, Central Problems, Consumer's Equilibrium - Utility/Indifference Curve, Demand, Elasticity of Demand, Production Function, Cost, Revenue, Supply, Forms of Market - Perfect Competition, Monopoly, Monopolistic, Oligopoly, Price Determination)",
+            "Statistics for Economics (Collection, Organisation, Presentation of Data - Tabular/Graphical, Measures of Central Tendency - Mean, Median, Mode, Measures of Dispersion - Standard Deviation, Variance, Correlation, Index Numbers - WPI, CPI)",
+            "Macroeconomics (National Income and Related Aggregates - GDP, GNP, NNP, Money and Banking - Central Bank/Commercial Bank functions, Monetary Policy, Determination of Income and Employment - AD/AS model, Keynesian Theory, Government Budget - Objectives, Components, Fiscal Policy, Fiscal Deficit, Balance of Payments - BoP, Foreign Exchange Rate)",
+            "Indian Economic Development (Indian Economy on the eve of Independence, Five Year Plans 1950-1990, Economic Reforms since 1991 - LPG, Poverty, Human Capital Formation, Rural Development, Employment, Infrastructure, Sustainable Development, India-China-Pakistan Comparative Development)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Reading Comprehension (Unseen Passages, Note Making, Summarizing)",
+            "Writing Skills (Notice, Letter Writing - Formal/Informal, Report Writing, Article, Speech, Debate, Resume, Job Application)",
+            "Grammar (Tenses, Modals, Voice, Narration, Clauses, Transformation of Sentences)",
+            "Literature (Prose, Poetry, Supplementary Reader)"
+          ]
+        },
+        {
+          "subject": "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)",
+          "topics": [
+            "Mathematics (Core): (See PCM topics, essential for B.Sc. Economics, B.Sc. Statistics, Actuarial Science)",
+            "Applied Mathematics: (Financial Mathematics, Compound Interest, Annuities, Linear Programming, Matrices, Calculus, Statistics, Probability Distributions)",
+            "Informatics Practices (IP): (Python Programming, Pandas DataFrames, Data Visualization with Matplotlib/Pyplot, Database Management, SQL Queries - Joins, Group By, Computer Networks, Cyber Ethics)",
+            "Legal Studies: (Theory of Law, Types of Law, Indian Constitution, Judiciary, Civil and Criminal Law, Legal Maxims, Human Rights)",
+            "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods, Health and Nutrition)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Professional Accounting and Finance (Certified)",
+          "specializations": [
+            "Chartered Accountant (CA) - (Audit, Taxation, Corporate Finance)",
+            "Company Secretary (CS) - (Corporate Law, Governance, Compliance)",
+            "Certified Management Accountant (CMA / CIMA) - (Costing, Management Accounting)",
+            "Chartered Financial Analyst (CFA) - (Investment Management, Portfolio Analysis)",
+            "Certified Public Accountant (CPA - US)",
+            "ACCA (Association of Chartered Certified Accountants - UK)",
+            "Financial Risk Manager (FRM)",
+            "Internal Auditor",
+            "Tax Consultant (Direct and Indirect - GST)",
+            "Financial Controller"
+          ]
+        },
+        {
+          "career": "Banking and Financial Services",
+          "specializations": [
+            "Investment Banker (M&A, IPOs)",
+            "Equity Research Analyst",
+            "Financial Analyst",
+            "Bank PO (Probationary Officer) / Bank Manager (Public/Private Sector)",
+            "Risk Analyst / Credit Analyst",
+            "Stockbroker / Equity Trader",
+            "Portfolio Manager / Wealth Manager",
+            "Treasury Manager",
+            "Insurance Underwriter / Surveyor"
+          ]
+        },
+        {
+          "career": "Management and Administration",
+          "specializations": [
+            "Marketing Manager (Brand, Product, Digital)",
+            "Human Resources (HR) Manager (Recruitment, Compensation, HRBP)",
+            "Operations Manager",
+            "Supply Chain / Logistics Manager",
+            "Business Development Manager",
+            "Project Manager (PMP)",
+            "Retail Manager / Store Manager",
+            "General Manager / CEO (with experience)",
+            "Hospital Administrator (with specialization)"
+          ]
+        },
+        {
+          "career": "Consulting",
+          "specializations": [
+            "Management Consultant (Strategy, Operations)",
+            "Financial Advisory Consultant",
+            "Risk Advisory Consultant",
+            "Technology Consultant (Functional role)",
+            "Tax Consultant"
+          ]
+        },
+        {
+          "career": "Law (requires LLB)",
+          "specializations": [
+            "Corporate Lawyer (M&A, Contracts)",
+            "Tax Lawyer (GST, Income Tax)",
+            "Insolvency and Bankruptcy (IBC) Practitioner",
+            "Legal Advisor (In-house Counsel)",
+            "Company Secretary (CS - Legal Role)"
+          ]
+        },
+        {
+          "career": "Digital Business and Marketing",
+          "specializations": [
+            "Digital Marketing Manager",
+            "E-commerce Manager (Marketplace, D2C)",
+            "SEO / SEM Specialist",
+            "Social Media Manager",
+            "Content Strategist",
+            "Performance Marketer"
+          ]
+        },
+        {
+          "career": "Data and Analytics (Commerce Focus)",
+          "specializations": [
+            "Business Analyst",
+            "Data Analyst (Finance, Marketing)",
+            "Fintech Analyst",
+            "Business Intelligence (BI) Analyst",
+            "Market Research Analyst"
+          ]
+        },
+        {
+          "career": "Economics and Policy",
+          "specializations": [
+            "Economist",
+            "Policy Analyst (Government, Think Tanks)",
+            "Development Sector Professional (NGOs, World Bank, IMF)",
+            "Economic Journalist",
+            "Statistician"
+          ]
+        },
+        {
+          "career": "Entrepreneurship",
+          "specializations": [
+            "Startup Founder (Tech, D2C, Services)",
+            "Business Owner (Family Business)",
+            "Social Entrepreneur",
+            "Venture Capitalist (VC) Analyst"
+          ]
+        },
+        {
+          "career": "Actuarial Science (with Math)",
+          "specializations": [
+            "Actuary (Insurance - Life, Health, General)",
+            "Risk Modeler",
+            "Pension Fund Manager"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Professional Certifications (Post-12th Foundation Route)",
+          "degrees": [
+            "CA (Chartered Accountancy) - ICAI",
+            "CS (Company Secretary) - ICSI",
+            "CMA (Cost and Management Accountancy) - ICMAI",
+            "Actuarial Science (via IAI/IFoA exams) (with Math)"
+          ]
+        },
+        {
+          "path": "Bachelor of Commerce (B.Com)",
+          "degrees": [
+            "B.Com (General / Pass)",
+            "B.Com (Honours)",
+            "B.Com in Accounting and Finance",
+            "B.Com in Banking and Insurance (BBI)",
+            "B.Com in Financial Markets (BFM)",
+            "B.Com in Computer Applications",
+            "B.Com in E-Commerce"
+          ]
+        },
+        {
+          "path": "Bachelor of Business Administration (BBA) / Management",
+          "degrees": [
+            "BBA (General)",
+            "BBA (Honours)",
+            "BBA in Finance",
+            "BBA in Marketing",
+            "BBA in International Business",
+            "BBA in Business Analytics",
+            "BBA in Digital Marketing",
+            "BBA in FinTech",
+            "BMS (Bachelor of Management Studies)",
+            "BBS (Bachelor of Business Studies)"
+          ]
+        },
+        {
+          "path": "Economics",
+          "degrees": [
+            "B.A. (Honours) in Economics",
+            "B.Sc. (Honours) in Economics (requires Math)",
+            "BBE (Bachelor of Business Economics)"
+          ]
+        },
+        {
+          "path": "Integrated Law Courses (via CLAT/AILET etc.)",
+          "degrees": [
+            "B.Com LLB (Honours) (5-year)",
+            "BBA LLB (Honours) (5-year)"
+          ]
+        },
+        {
+          "path": "Other Bachelor's Degrees",
+          "degrees": [
+            "B.A. (Honours) in Finance and Investment",
+            "B.Sc. in Statistics (requires Math)",
+            "BCA (Bachelor of Computer Applications) (with Math/IP)",
+            "BHM (Bachelor of Hotel Management)"
+          ]
+        },
+        {
+          "path": "International Professional Certifications (Post-12th or during/post-grad)",
+          "degrees": [
+            "ACCA (Association of Chartered Certified Accountants)",
+            "CIMA (Chartered Institute of Management Accountants)",
+            "CFA (Chartered Financial Analyst - Level 1 during graduation)",
+            "CPA (Certified Public Accountant - after graduation)"
+          ]
+        },
+        {
+          "path": "Common Postgraduate Options (Post-Graduation)",
+          "degrees": [
+            "MBA (Master of Business Administration) - (Finance, Marketing, HR, Operations, IT, International Business, Business Analytics)",
+            "PGDM (Post Graduate Diploma in Management)",
+            "M.Com (Master of Commerce)",
+            "M.A. / M.Sc. in Economics",
+            "MFC (Master of Finance and Control)",
+            "MIB (Master of International Business)",
+            "LLB (3-year course after graduation)"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Arts (Humanities)",
+      "description": "Focuses on human society, culture, language, history, and creative arts. Offers a wide range of subjects and is ideal for creative minds, empathetic individuals, and those interested in social sciences, public policy, law, or civil services.",
+      "core_subjects": [
+        {
+          "subject": "History",
+          "topics": [
+            "Themes in World History (Early Societies, Empires - Roman/Greek, Nomadic Empires, Modernization - Industrial Revolution, World Wars)",
+            "Themes in Indian History (Harappan Civilization, Vedic Period, Mauryan, Gupta, Mughal Empire, Vijayanagara Empire, Colonialism, Nationalist Movement, Partition)",
+            "Framing the Constitution",
+            "Art and Architecture History (Ancient, Medieval, Modern)",
+            "Social History (Caste, Gender, Tribal Societies)"
+          ]
+        },
+        {
+          "subject": "Political Science",
+          "topics": [
+            "Indian Constitution at Work (Rights, Executive, Legislature, Judiciary, Federalism, Local Government)",
+            "Political Theory (Liberty, Equality, Justice, Rights, Secularism, Nationalism, Peace, Development)",
+            "Contemporary World Politics (Cold War, US Hegemony, Alternative Centers of Power - EU/ASEAN, South Asia, International Organizations - UN, Globalization)",
+            "Politics in India Since Independence (Nation-Building, One-Party Dominance, Party Systems, Democratic Resurgence, Indian Foreign Policy, Regional Aspirations)"
+          ]
+        },
+        {
+          "subject": "Sociology",
+          "topics": [
+            "Introducing Sociology (Society, Social Institutions - Family/Marriage/Kinship, Culture, Socialization)",
+            "Understanding Society (Social Structure, Stratification - Class/Caste/Gender, Social Change, Environment and Society)",
+            "Indian Society (Demographic Structure, Social Institutions, Cultural Diversity, Social Inequality and Exclusion)",
+            "Social Change and Development in India (Structural Change, Cultural Change, The Constitution and Social Change, Globalization, Mass Media)"
+          ]
+        },
+        {
+          "subject": "Psychology",
+          "topics": [
+            "What is Psychology? (Introduction, Branches, Methods)",
+            "Methods of Enquiry in Psychology (Goals, Steps, Research Methods - Observation, Experimental, Correlational)",
+            "Human Development (Lifespan Perspective, Cognitive Development - Piaget, Moral Development - Kohlberg)",
+            "Sensory, Attentional and Perceptual Processes (Sensation, Perception, Attention)",
+            "Learning (Classical Conditioning, Operant Conditioning, Observational Learning)",
+            "Human Memory (Models - Atkinson-Shiffrin, Levels of Processing, Forgetting)",
+            "Thinking (Problem Solving, Reasoning, Decision Making, Creative Thinking)",
+            "Motivation and Emotion (Theories of Motivation - Maslow, Theories of Emotion)",
+            "Psychological Disorders (Anxiety, Somatic, Dissociative, Mood, Schizophrenic, Substance-Use)",
+            "Therapeutic Approaches (Psychodynamic, Behavioural, Cognitive, Humanistic, Biomedical, Yoga)"
+          ]
+        },
+        {
+          "subject": "Geography",
+          "topics": [
+            "Fundamentals of Physical Geography (The Earth - Origin/Evolution, Interior, Landforms - Fluvial/Glacial/Arid, Climate, Water - Oceans/Circulation, Soils, Biodiversity)",
+            "Fundamentals of Human Geography (Population - Distribution/Density/Growth, Human Activities - Primary/Secondary/Tertiary/Quaternary, Transport, Communication, International Trade)",
+            "India - Physical Environment (Physiography, Drainage Systems, Climate, Natural Vegetation, Soils)",
+            "India - People and Economy (Population, Human Settlements, Land Resources, Water Resources, Mineral and Energy Resources, Transport, Trade, GIS/GPS Basics)"
+          ]
+        },
+        {
+          "subject": "Economics",
+          "topics": [
+            "Statistics for Economics (Collection, Organisation, Presentation of Data, Measures of Central Tendency, Dispersion, Correlation, Index Numbers)",
+            "Microeconomics (Introduction, Consumer's Equilibrium, Demand, Supply, Forms of Market, Price Determination)",
+            "Macroeconomics (National Income, Money and Banking, Determination of Income and Employment, Government Budget, Balance of Payments)",
+            "Indian Economic Development (Indian Economy 1950-1990, Economic Reforms since 1991, Poverty, Human Capital Formation, Rural Development, Sustainable Development)"
+          ]
+        },
+        {
+          "subject": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+          "topics": [
+            "Advanced Literature (Prose, Poetry, Drama, Novels)",
+            "Creative Writing (Short Story, Poetry, Script Writing)",
+            "Advanced Grammar and Composition",
+            "Reading Comprehension (Literary and Non-Literary Texts)",
+            "Linguistics (Phonetics, Morphology - if specialized)",
+            "History of Literature"
+          ]
+        },
+        {
+          "subject": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+          "topics": [
+            "Fine Arts: (Painting, Sculpture, Graphic Design, History of Art)",
+            "Legal Studies: (Theory of Law, Judiciary, Legal Maxims, Human Rights, Property Law, Contract Law)",
+            "Home Science: (Food and Nutrition, Human Development, Resource Management, Textiles and Apparel)",
+            "Philosophy: (Introduction to Western and Indian Philosophy, Logic, Ethics, Epistemology)",
+            "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods)",
+            "Music (Vocal or Instrumental): (Music Theory, History of Music, Practical Performance)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Civil Services and Public Administration (UPSC, State PSC)",
+          "specializations": [
+            "IAS (Indian Administrative Service)",
+            "IPS (Indian Police Service)",
+            "IFS (Indian Foreign Service)",
+            "IRS (Indian Revenue Service)",
+            "State Administrative Services (e.g., SDM, DSP)",
+            "Public Policy Analyst",
+            "Urban Governance"
+          ]
+        },
+        {
+          "career": "Law (requires LLB)",
+          "specializations": [
+            "Lawyer (Litigation - Civil, Criminal, Family)",
+            "Judge (Judicial Services)",
+            "Corporate Counsel / Legal Advisor (In-house)",
+            "Public Prosecutor",
+            "Human Rights Advocate",
+            "Intellectual Property (IP) Lawyer",
+            "Public Interest Lawyer"
+          ]
+        },
+        {
+          "career": "Media, Journalism, and Publishing",
+          "specializations": [
+            "Journalist (Print, Broadcast, Digital)",
+            "Editor / Sub-Editor",
+            "News Anchor / Reporter",
+            "Content Writer / Creator / Strategist",
+            "Copywriter (Advertising)",
+            "Book Publisher / Editor",
+            "Screenwriter",
+            "Photojournalist"
+          ]
+        },
+        {
+          "career": "Advertising and Public Relations (PR)",
+          "specializations": [
+            "Public Relations (PR) Manager",
+            "Advertising Executive / Account Manager",
+            "Brand Strategist",
+            "Media Planner",
+            "Corporate Communications Manager",
+            "Crisis Management Specialist"
+          ]
+        },
+        {
+          "career": "Design and Creative Arts",
+          "specializations": [
+            "Fashion Designer",
+            "Interior Designer",
+            "Graphic Designer",
+            "UI/UX Designer (User Interface / User Experience)",
+            "Animator (2D/3D)",
+            "Product Designer",
+            "Textile Designer",
+            "Illustrator",
+            "Art Director"
+          ]
+        },
+        {
+          "career": "Academia, Research, and Teaching",
+          "specializations": [
+            "Professor (University)",
+            "School Teacher (TGT/PGT)",
+            "Researcher (PhD)",
+            "Historian / Archaeologist",
+            "Political Analyst / Psephologist",
+            "Sociologist",
+            "Economist"
+          ]
+        },
+        {
+          "career": "Psychology and Counselling",
+          "specializations": [
+            "Clinical Psychologist (RCI Licensed)",
+            "Counsellor (School, Career, Mental Health, Marriage)",
+            "Therapist (CBT, Art, Family)",
+            "Organizational Psychologist (HR)",
+            "Sports Psychologist",
+            "Child Psychologist",
+            "Neuropsychologist"
+          ]
+        },
+        {
+          "career": "Hospitality, Travel, and Management",
+          "specializations": [
+            "Hotel Manager (Front Office, F&B, Housekeeping)",
+            "Event Manager / Wedding Planner",
+            "Travel Consultant / Tour Operator",
+            "Human Resources (HR) Manager (from BBA/MBA)",
+            "Marketing Manager (from BBA/MBA)",
+            "Airline Cabin Crew / Ground Staff"
+          ]
+        },
+        {
+          "career": "Social Work and Development Sector",
+          "specializations": [
+            "Social Worker (Community, Medical, Psychiatric)",
+            "NGO Manager / Program Coordinator",
+            "Policy Analyst / Advocate",
+            "Community Service Manager",
+            "CSR (Corporate Social Responsibility) Manager"
+          ]
+        },
+        {
+          "career": "Creative Arts and Performance",
+          "specializations": [
+            "Writer / Author / Poet",
+            "Painter / Sculptor (Fine Artist)",
+            "Musician / Singer / Composer",
+            "Actor / Theatre Artist",
+            "Filmmaker / Director / Cinematographer",
+            "Dancer / Choreographer"
+          ]
+        },
+        {
+          "career": "Museums, Archives, and Heritage",
+          "specializations": [
+            "Curator",
+            "Archivist",
+            "Museum Educator",
+            "Conservator / Restoration Specialist",
+            "Heritage Management Consultant"
+          ]
+        },
+        {
+          "career": "Language and Translation",
+          "specializations": [
+            "Translator / Interpreter (Foreign Language)",
+            "Linguist",
+            "Lexicographer (Dictionary Compiler)",
+            "Technical Writer"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Bachelor of Arts (B.A.)",
+          "degrees": [
+            "B.A. (General / Program)",
+            "B.A. (Honours) in English",
+            "B.A. (Honours) in History",
+            "B.A. (Honours) in Political Science",
+            "B.A. (Honours) in Psychology",
+            "B.A. (Honours) in Sociology",
+            "B.A. (Honours) in Economics",
+            "B.A. (Honours) in Geography",
+            "B.A. (Honours) in Philosophy",
+            "B.A. (Honours) in a Foreign Language (French, German, Spanish, Japanese, etc.)"
+          ]
+        },
+        {
+          "path": "Integrated Law Courses (5-Year)",
+          "degrees": [
+            "B.A. LLB (Honours)",
+            "BBA LLB (Honours)"
+          ]
+        },
+        {
+          "path": "Design Degrees (via NID/NIFT/UCEED)",
+          "degrees": [
+            "B.Des (Bachelor of Design) in Fashion, Interior, Graphic, UI/UX, Product, Animation",
+            "B.FTech (Bachelor of Fashion Technology)"
+          ]
+        },
+        {
+          "path": "Fine Arts Degree",
+          "degrees": [
+            "BFA (Bachelor of Fine Arts) in Painting, Sculpture, Applied Arts",
+            "BVA (Bachelor of Visual Arts)"
+          ]
+        },
+        {
+          "path": "Journalism and Mass Communication",
+          "degrees": [
+            "BJMC (Bachelor of Journalism and Mass Communication)",
+            "BMM (Bachelor of Mass Media)",
+            "B.A. in Journalism",
+            "B.A. in Film, Television & New Media Production"
+          ]
+        },
+        {
+          "path": "Management Degrees",
+          "degrees": [
+            "BBA (Bachelor of Business Administration)",
+            "BMS (Bachelor of Management Studies)",
+            "BHM (Bachelor of Hotel Management)",
+            "BBA in Event Management",
+            "BBA in Travel and Tourism Management"
+          ]
+        },
+        {
+          "path": "Social Sciences and Education",
+          "degrees": [
+            "BSW (Bachelor of Social Work)",
+            "B.El.Ed. (Bachelor of Elementary Education)",
+            "B.P.Ed. (Bachelor of Physical Education)",
+            "Integrated B.A. + B.Ed."
+          ]
+        },
+        {
+          "path": "Specialized/Integrated Masters",
+          "degrees": [
+            "Integrated M.A. in Liberal Arts / Humanities",
+            "Integrated M.A. in Economics (e.g., IITs)",
+            "Integrated M.A. in Development Studies"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Vocational (Polytechnic Diploma)",
+      "description": "3-year technical diploma programs focused on practical engineering and other fields, offering early specialization, industry skills, and a direct path to employment or lateral entry into B.Tech.",
+      "core_subjects": [
+        {
+          "subject": "Diploma in Computer Engineering / IT",
+          "topics": [
+            "Computer Hardware and Maintenance",
+            "Programming in C/C++/Java/Python",
+            "Data Structures and Algorithms",
+            "Database Management Systems (DBMS, SQL)",
+            "Operating Systems (Windows, Linux)",
+            "Computer Networks and Security",
+            "Web Development (HTML, CSS, JavaScript, PHP/Node.js)",
+            "Software Engineering",
+            "Mobile Application Development (Basics)"
+          ]
+        },
+        {
+          "subject": "Diploma in Mechanical Engineering",
+          "topics": [
+            "Engineering Drawing / CAD (AutoCAD, SolidWorks)",
+            "Applied Thermodynamics",
+            "Strength of Materials (SOM)",
+            "Manufacturing Technology / Workshop Practice",
+            "Theory of Machines (TOM)",
+            "Machine Design",
+            "Fluid Mechanics and Hydraulics",
+            "Refrigeration and Air Conditioning (RAC)",
+            "Industrial Management",
+            "CNC Machines and Automation"
+          ]
+        },
+        {
+          "subject": "Diploma in Civil Engineering",
+          "topics": [
+            "Surveying (Chain, Compass, Theodolite, Total Station)",
+            "Building Materials and Construction Technology",
+            "Structural Mechanics / Theory of Structures (TOS)",
+            "Concrete Technology",
+            "Transportation Engineering (Highways, Railways)",
+            "Geotechnical Engineering (Soil Mechanics)",
+            "Water Resources Engineering (Irrigation, Hydrology)",
+            "Estimating and Costing",
+            "Civil Engineering Drawing (AutoCAD)"
+          ]
+        },
+        {
+          "subject": "Diploma in Electrical Engineering",
+          "topics": [
+            "Basic Electrical Engineering",
+            "Electrical Machines (DC/AC Motors, Generators, Transformers)",
+            "Power Systems (Generation, Transmission, Distribution)",
+            "Electronics Devices and Circuits (Analog/Digital)",
+            "Electrical Measurements and Instrumentation",
+            "Power Electronics",
+            "Control Systems",
+            "PLC and SCADA (Basics)",
+            "Electrical Installation and Maintenance"
+          ]
+        },
+        {
+          "subject": "Other Diplomas",
+          "topics": [
+            "Electronics and Communication (ECE): (Analog/Digital Circuits, Communication Systems, Microprocessors, VLSI)",
+            "Automobile Engineering: (Engine Systems, Chassis, Transmission, Auto Electrical, Vehicle Maintenance)",
+            "Chemical Engineering: (Fluid Flow, Heat Transfer, Mass Transfer, Chemical Technology, Process Instrumentation)",
+            "Architecture Assistantship: (Building Design, Construction, Graphics, CAD, History of Architecture)",
+            "Interior Design: (Design Principles, Materials, CAD, Furniture Design, Building Services)",
+            "Hotel Management: (Front Office, Housekeeping, Food Production, F&B Service)",
+            "Medical Laboratory Technology (DMLT): (Anatomy, Physiology, Biochemistry, Pathology, Microbiology)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Junior Engineer / Technician (Government Sector)",
+          "specializations": [
+            "Junior Engineer (JE) in Govt. Depts (PWD, CPWD, Irrigation, PHE)",
+            "JE in Public Sector Undertakings (PSUs) (BHEL, GAIL, NTPC, ONGC)",
+            "JE in Railways (RRB JE)",
+            "JE in Metro Rail Corporations",
+            "Technical Assistant in Defence (DRDO, Ordnance Factories)",
+            "Technician in ISRO"
+          ]
+        },
+        {
+          "career": "Junior Engineer / Supervisor (Private Sector)",
+          "specializations": [
+            "Site Supervisor / Site Engineer (Civil)",
+            "Maintenance Engineer / Technician (Mechanical, Electrical)",
+            "Production Supervisor (Mechanical, Chemical)",
+            "Quality Control / Quality Assurance (QA/QC) Engineer",
+            "Service Engineer (Automobile, Electronics)",
+            "Electrical Technician (Operations, Maintenance)",
+            "Electronics Assembler / Tester"
+          ]
+        },
+        {
+          "career": "IT and Software",
+          "specializations": [
+            "Computer Hardware Technician",
+            "Software Support Professional / Help Desk Analyst",
+            "Junior Web Developer",
+            "Network Administrator / Technician",
+            "Junior Database Administrator (DBA)",
+            "Test Engineer (Software Testing)",
+            "IT Support Specialist"
+          ]
+        },
+        {
+          "career": "Design and Draughting",
+          "specializations": [
+            "Draughtsman (Civil / Mechanical)",
+            "CAD Operator / Designer (AutoCAD, CATIA, SolidWorks)",
+            "Architectural Assistant",
+            "Interior Designer (Junior)",
+            "UI/UX Designer (with further certification)"
+          ]
+        },
+        {
+          "career": "Other Vocational Fields",
+          "specializations": [
+            "Hotel Operations Manager (Hotel Management)",
+            "Lab Technician (DMLT)",
+            "Junior Chemical Engineer / Plant Operator (Chemical)",
+            "Automobile Service Technician (Automobile)"
+          ]
+        },
+        {
+          "career": "Self-Employment",
+          "specializations": [
+            "Civil Contractor (Small Projects)",
+            "Electrical Contractor",
+            "Owner of Repair/Maintenance Workshop (Auto, RAC)",
+            "Freelance Web Developer / Designer"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Lateral Entry to B.Tech / B.E. / B.Arch",
+          "degrees": [
+            "Direct admission into the 2nd year (3rd semester) of a B.Tech/B.E. program in the same specialization (e.g., Diploma in Mech. -> B.Tech in Mech.)",
+            "Direct admission into the 2nd year of B.Arch (after Diploma in Architecture Assistantship)"
+          ]
+        },
+        {
+          "path": "Professional Certifications (Equivalent to Degree)",
+          "degrees": [
+            "AMIE (Associate Member of the Institution of Engineers) - (Sections A & B, recognized as equivalent to B.E./B.Tech)"
+          ]
+        },
+        {
+          "path": "Other Bachelor's Degrees",
+          "degrees": [
+            "B.Sc. in Engineering (less common, offered by some institutes)",
+            "B.Sc. in IT / Computer Science (sometimes allows lateral entry)",
+            "B.A. or B.Com (if changing fields, starts from 1st year)"
+          ]
+        },
+        {
+          "path": "Advanced Technical Certifications",
+          "degrees": [
+            "Post-Diploma in specialized fields (e.g., Tool Design, Industrial Safety, PLC/SCADA)",
+            "Professional IT Certifications (e.g., CCNA, Red Hat, AWS Cloud Practitioner)",
+            "CAD/CAM/CAE software certifications"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Vocational (ITI - Industrial Training Institute)",
+      "description": "1-2 year trade courses focused on specific hands-on technical skills for quick employment in industrial, technical, and service sectors. Ideal for students who prefer practical, skill-based learning.",
+      "core_subjects": [
+        {
+          "subject": "Electrician",
+          "topics": [
+            "Trade Safety and Precautions",
+            "Hand and Power Tools",
+            "Basic Electrical Principles (Ohm's Law, Kirchhoff's Laws)",
+            "Electrical Wiring (Residential, Commercial, Industrial)",
+            "Motor Winding (DC/AC)",
+            "Transformer Maintenance and Repair",
+            "Basic Electronics (Diodes, Transistors, Rectifiers)",
+            "Circuit Installation and Repair",
+            "Earthing and Grounding",
+            "Installation and Maintenance of Electrical Appliances"
+          ]
+        },
+        {
+          "subject": "Fitter",
+          "topics": [
+            "Trade Safety",
+            "Hand Tools and Operations (Filing, Sawing, Drilling, Tapping)",
+            "Precision Instruments (Vernier Caliper, Micrometer)",
+            "Lathe Operations (Turning, Facing, Tapering)",
+            "Milling, Grinding, and Drilling Operations",
+            "Welding (Arc, Gas)",
+            "Sheet Metal Work",
+            "Pipe Fitting and Plumbing Basics",
+            "Assembly and Disassembly of Machine Parts",
+            "Bearings, Gears, and Pulleys"
+          ]
+        },
+        {
+          "subject": "Mechanic (Motor Vehicle - MMV)",
+          "topics": [
+            "Automotive Safety and Tools",
+            "Engine Systems (Petrol, Diesel) - Overhauling",
+            "Transmission Systems (Clutch, Gearbox, Propeller Shaft)",
+            "Braking Systems (Drum, Disc, Hydraulic, ABS)",
+            "Suspension and Steering Systems",
+            "Auto-Electrical Systems (Battery, Alternator, Starter Motor, Wiring)",
+            "Vehicle Diagnostics and Repair",
+            "Wheel Alignment and Balancing",
+            "Basic Auto-AC",
+            "Pollution Control (BS-VI norms)"
+          ]
+        },
+        {
+          "subject": "COPA (Computer Operator and Programming Assistant)",
+          "topics": [
+            "Computer Fundamentals and Hardware",
+            "Operating Systems (Windows, Linux)",
+            "MS Office Suite (Word, Excel, PowerPoint, Access)",
+            "Database Management Systems (DBMS, SQL Basics)",
+            "Programming with JavaScript",
+            "Visual Basic for Applications (VBA)",
+            "Basic Web Page Design (HTML, CSS)",
+            "Cyber Security and Internet Basics",
+            "E-commerce Concepts",
+            "Soft Skills and Communication"
+          ]
+        },
+        {
+          "subject": "Draughtsman (Civil / Mechanical)",
+          "topics": [
+            "Engineering Drawing (Projections, Sections, Views)",
+            "CAD Software (AutoCAD 2D and 3D)",
+            "Building Plans, Elevations, and Sections (Civil)",
+            "Surveying and Levelling Basics (Civil)",
+            "Reinforced Concrete (RCC) Drawing (Civil)",
+            "Machine Part Drawing and Assembly (Mechanical)",
+            "Limits, Fits, and Tolerances (Mechanical)",
+            "Revit or other 3D modeling software (Basics)"
+          ]
+        },
+        {
+          "subject": "Other Trades (Examples)",
+          "topics": [
+            "Refrigeration and AC Mechanic (RAC): (Refrigeration Cycle, Compressors, Condensers, Installation, Repair, Gas Charging)",
+            "Welder: (Arc Welding, Gas Welding, TIG, MIG, Plasma Cutting, Reading Blueprints)",
+            "Plumber: (Pipe Fitting, Sanitation Systems, Water Supply Systems, Fixture Installation, Repair)",
+            "Turner: (Advanced Lathe Operations, Thread Cutting, CNC Lathe Programming Basics)",
+            "Dress Making / Fashion Design: (Pattern Making, Cutting, Sewing, Garment Construction, Fashion Illustration)",
+            "Digital Photographer: (Camera Operations, Lighting, Composition, Photo Editing - Photoshop/Lightroom)",
+            "Hospital Housekeeping: (Sanitation, Biomedical Waste Management, Patient Room Maintenance, Infection Control)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Skilled Technician (Industrial / Manufacturing)",
+          "specializations": [
+            "Electrician (Maintenance, Installation)",
+            "Fitter (Assembly, Maintenance)",
+            "Mechanic (Plant Maintenance)",
+            "Welder (Structural, Pipe)",
+            "Plumber (Industrial, Construction)",
+            "AC Technician (HVAC Technician)",
+            "Pump Operator",
+            "Turner / Machinist"
+          ]
+        },
+        {
+          "career": "Operator (Plant / Machine)",
+          "specializations": [
+            "CNC Operator / Programmer",
+            "Machine Operator (Lathe, Milling)",
+            "Plant Operator (e.g., in Power Plants, Chemical Plants)",
+            "Forklift Operator"
+          ]
+        },
+        {
+          "career": "Automotive Industry",
+          "specializations": [
+            "Automobile Mechanic (at Service Centers)",
+            "Service Advisor",
+            "Diagnostics Technician",
+            "Wheel Alignment Technician",
+            "Auto Electrician"
+          ]
+        },
+        {
+          "career": "IT and Office Roles",
+          "specializations": [
+            "Computer Operator",
+            "Data Entry Operator",
+            "Draughtsman (CAD Operator) (Civil/Mechanical)",
+            "Office Assistant (with COPA)",
+            "Hardware Technician"
+          ]
+        },
+        {
+          "career": "Government Jobs (Technician / Assistant)",
+          "specializations": [
+            "Technician in Railways (ALP - Assistant Loco Pilot, Technician)",
+            "Technician in PSUs (BHEL, GAIL, NTPC, etc.)",
+            "Technician in Defence (DRDO, Ordnance Factories)",
+            "State Electricity Boards (Lineman, Wireman)",
+            "Municipal Corporation (Plumber, Electrician, Operator)"
+          ]
+        },
+        {
+          "career": "Self-Employment / Contractor",
+          "specializations": [
+            "Own Repair Shop (Garage, AC/Fridge, Electrical)",
+            "Plumbing/Welding Contractor",
+            "Freelance CAD Draughtsman",
+            "Freelance Photographer / Videographer",
+            "Boutique / Tailoring Shop Owner"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Polytechnic Diploma (Lateral Entry)",
+          "degrees": [
+            "Lateral entry (direct admission) into the 2nd year of a Diploma in Engineering (e.g., ITI Electrician -> Diploma in Electrical Engineering)"
+          ]
+        },
+        {
+          "path": "Apprenticeship",
+          "degrees": [
+            "National Apprenticeship Certificate (NAC) from a company (e.g., Railways, PSUs, Private Industry). This combines on-the-job training with a stipend."
+          ]
+        },
+        {
+          "path": "Advanced ITI / CITS",
+          "degrees": [
+            "Advanced Vocational Training Scheme (AVTS) courses",
+            "CITS (Craft Instructor Training Scheme) - To become an instructor in an ITI"
+          ]
+        },
+        {
+          "path": "NIOS / Equivalent 12th Grade",
+          "degrees": [
+            "Complete 12th grade (NIOS) to become eligible for non-technical degree courses (B.A., B.Com, etc.)"
+          ]
+        }
+      ]
+    },
+    {
+      "stream_name": "Vocational (Paramedical Diploma/Certificate)",
+      "description": "1-3 year diploma or certificate courses in allied health sciences, preparing students for skilled, hands-on support roles in the healthcare industry. Ideal for those wanting a quick entry into a medical-field job.",
+      "core_subjects": [
+        {
+          "subject": "Diploma in Medical Laboratory Technology (DMLT)",
+          "topics": [
+            "Human Anatomy and Physiology",
+            "Clinical Biochemistry (Blood Glucose, Renal/Liver Function Tests)",
+            "Clinical Pathology (Urine, Stool, Semen Analysis)",
+            "Microbiology (Bacterial Staining, Culture, Sensitivity)",
+            "Hematology (Blood Cell Counts, Hemoglobin, Blood Groups)",
+            "Blood Banking (Cross-matching, Transfusion)",
+            "Histopathology (Tissue Processing, Staining)",
+            "Lab Procedures, Safety, and Waste Management"
+          ]
+        },
+        {
+          "subject": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+          "topics": [
+            "Human Anatomy and Physiology",
+            "Radiation Physics and Safety",
+            "Radiographic Techniques (Positioning for X-Rays)",
+            "Patient Care and Ethics",
+            "Medical Imaging Modalities (X-Ray, CT, MRI, Ultrasound basics)",
+            "Darkroom Procedures / Digital Image Processing",
+            "Radiotherapy Basics (in some courses)"
+          ]
+        },
+        {
+          "subject": "Diploma in Operation Theatre Technology (DOTT)",
+          "topics": [
+            "Surgical Instruments (Identification, Handling, Sterilization)",
+            "Anaesthesia Technology (Drugs, Machines, Patient Monitoring)",
+            "Sterilization Procedures (Autoclaving, Fumigation)",
+            "Patient Monitoring (Vital Signs, ECG)",
+            "Surgical Assistant Skills (Suturing, Draping)",
+            "Infection Control in OT",
+            "Basic Life Support (BLS) and CPR",
+            "Post-Operative Care"
+          ]
+        },
+        {
+          "subject": "Other Diplomas / Certificates",
+          "topics": [
+            "Diploma in Dialysis Technology: (Kidney Anatomy/Physiology, Principles of Dialysis, Hemodialysis Machine, Patient Care, Water Treatment)",
+            "Diploma in Optometry (D.Optom): (Eye Anatomy, Refraction, Contact Lenses, Optical Instruments, Common Eye Diseases)",
+            "Diploma in Dental Hygiene: (Oral Anatomy, Dental Materials, Scaling and Polishing, Dental X-Rays, Community Dentistry)",
+            "Diploma in Medical Records Technology (DMRT): (Medical Terminology, Record Keeping, ICD-10 Coding, Hospital Statistics, Medico-Legal Aspects)",
+            "Diploma in Emergency Medical Services (Paramedic): (Trauma Care, BLS, Advanced Cardiac Life Support - ACLS, Triage, Ambulance Operations)"
+          ]
+        }
+      ],
+      "career_options": [
+        {
+          "career": "Technician / Technologist (in Hospitals/Labs)",
+          "specializations": [
+            "Medical Laboratory Technician (Pathology Lab)",
+            "Radiology Technician / Radiographer (X-Ray, CT, MRI)",
+            "X-Ray Technician",
+            "CT Scan / MRI Technician",
+            "Operation Theatre (OT) Technician",
+            "Dialysis Technician (in Kidney Centers)",
+            "Optometrist Assistant / Ophthalmic Technician",
+            "ECG Technician",
+            "Cardiac Care Technician"
+          ]
+        },
+        {
+          "career": "Assistant / Hygienist (in Clinics)",
+          "specializations": [
+            "Dental Hygienist / Dental Assistant (in Dental Clinics)",
+            "Physiotherapy Assistant",
+            "Pharmacist Assistant (with D.Pharm - Diploma in Pharmacy)"
+          ]
+        },
+        {
+          "career": "Emergency and Other Healthcare Roles",
+          "specializations": [
+            "Paramedic (Emergency Medical Technician - EMT)",
+            "Medical Coder (after certification)",
+            "Health Information Management Specialist",
+            "Medical Records Technician",
+            "CSSD (Central Sterile Supply Department) Technician"
+          ]
+        },
+        {
+          "career": "Sales and Support (Medical Equipment)",
+          "specializations": [
+            "Application Specialist (for Lab/Radiology equipment)",
+            "Medical Sales Representative (for devices related to trade)",
+            "Service Technician (for medical equipment)"
+          ]
+        }
+      ],
+      "higher_studies": [
+        {
+          "path": "Bachelor's Degree (Lateral Entry or Fresh)",
+          "degrees": [
+            "Lateral entry (direct 2nd year) to B.Sc. in the respective field (e.g., DMLT -> B.Sc. in MLT)",
+            "Lateral entry to B.Sc. in Radiology / Imaging Technology",
+            "Lateral entry to B.Sc. in Operation Theatre Technology",
+            "Lateral entry to B.Sc. in Optometry",
+            "Fresh admission to B.Sc. Nursing (if eligible with 12th Science)"
+          ]
+        },
+        {
+          "path": "Advanced Diploma",
+          "degrees": [
+            "Advanced or specialized Post-Graduate Diploma courses in the same field (e.g., Advanced Diploma in Cardiac Care)"
+          ]
+        },
+        {
+          "path": "Bachelor of Vocation (B.Voc)",
+          "degrees": [
+            "Lateral entry into B.Voc programs related to healthcare (e.g., B.Voc in MLT, B.Voc in Patient Care Management)"
+          ]
+        },
+        {
+          "path": "Professional Certifications",
+          "degrees": [
+            "Advanced certifications in specific areas (e.g., Medical Coding - CPC, Advanced Cardiac Life Support - ACLS)"
+          ]
+        }
+      ]
+    }
+  ]
+}

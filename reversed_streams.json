@@ -1,0 +1,5184 @@
+{
+  "3D Modeler / Animator": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "AC Technician (HVAC Technician)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "ACCA (Association of Chartered Certified Accountants - UK)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "ACCA (Association of Chartered Certified Accountants)": {
+    "category_context": "International Professional Certifications (Post-12th or during/post-grad)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "AI/ML Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "AMIE (Associate Member of the Institution of Engineers) - (Sections A & B, recognized as equivalent to B.E./B.Tech)": {
+    "category_context": "Professional Certifications (Equivalent to Degree)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "AYUSH (Alternative Medicine)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "AYUSH Degrees (Alternative Medicine)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Academia, Research, and Teaching": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Accountancy": {
+    "category_context": "Core Subject",
+    "streams": ["Commerce"],
+    "type": "Subject"
+  },
+  "Accounting for Not-for-Profit Organizations (NPO)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Actor / Theatre Artist": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Actuarial Science (via IAI exams)": {
+    "category_context": "Professional Certifications (Post-12th)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Actuarial Science (via IAI/IFoA exams) (with Math)": {
+    "category_context": "Professional Certifications (Post-12th Foundation Route)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "Actuarial Science (with Math)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Actuary": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Actuary (Insurance - Life, Health, General)": {
+    "category_context": "Actuarial Science (with Math)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Advanced Diploma": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Education Path"
+  },
+  "Advanced Grammar and Composition": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Advanced ITI / CITS": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Education Path"
+  },
+  "Advanced Literature (Prose, Poetry, Drama, Novels)": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Advanced Technical Certifications": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Education Path"
+  },
+  "Advanced Vocational Training Scheme (AVTS) courses": {
+    "category_context": "Advanced ITI / CITS",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Degree"
+  },
+  "Advanced certifications in specific areas (e.g., Medical Coding - CPC, Advanced Cardiac Life Support - ACLS)": {
+    "category_context": "Professional Certifications",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Advanced or specialized Post-Graduate Diploma courses in the same field (e.g., Advanced Diploma in Cardiac Care)": {
+    "category_context": "Advanced Diploma",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Advertising Executive / Account Manager": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Advertising and Public Relations (PR)": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Aeronautical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Aeronautical Engineer (Maintenance)": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Aerospace Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Agricultural Scientist": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Agriculture and Allied Degrees": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Agriculture and Allied Fields": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Air Traffic Controller": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Aircraft Maintenance Engineer (AME)": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Aircraft Maintenance Engineering (AME) (Diploma/Degree)": {
+    "category_context": "Aviation and Pilot Training",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Airline Cabin Crew / Ground Staff": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Algebra (Principle of Mathematical Induction, Complex Numbers, Quadratic Equations, Linear Inequalities, Permutations, Combinations, Binomial Theorem, Sequences and Series, Matrices, Determinants)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Allied Health Sciences (Paramedical)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Anaesthesia Technician": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Anaesthesia Technology (Drugs, Machines, Patient Monitoring)": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Analysis of Financial Statements (Comparative Statements, Common-Size Statements, Ratio Analysis - Liquidity, Solvency, Activity, Profitability)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Animal Kingdom (Classification, Phyla from Porifera to Chordata)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Animal Nutritionist": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Animator (2D/3D)": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Application Specialist (for Lab/Radiology equipment)": {
+    "category_context": "Sales and Support (Medical Equipment)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Applied Mathematics: (Financial Mathematics, Compound Interest, Annuities, Linear Programming, Matrices, Calculus, Statistics, Probability Distributions)": {
+    "category_context": "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Applied Thermodynamics": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Apprenticeship": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Education Path"
+  },
+  "Aquaculturist": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Architect": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Architectural Assistant": {
+    "category_context": "Design and Draughting",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Architecture Assistantship: (Building Design, Construction, Graphics, CAD, History of Architecture)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Architecture and Planning": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Archivist": {
+    "category_context": "Museums, Archives, and Heritage",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Art Director": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Art and Architecture History (Ancient, Medieval, Modern)": {
+    "category_context": "History",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Assembly and Disassembly of Machine Parts": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Assistant / Hygienist (in Clinics)": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career Field"
+  },
+  "Astrophysicist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Audiologist and Speech-Language Pathologist (ASLP)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Auto Electrician": {
+    "category_context": "Automotive Industry",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Auto-Electrical Systems (Battery, Alternator, Starter Motor, Wiring)": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Automobile Designer": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Automobile Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Automobile Engineering: (Engine Systems, Chassis, Transmission, Auto Electrical, Vehicle Maintenance)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Automobile Mechanic (at Service Centers)": {
+    "category_context": "Automotive Industry",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Automobile Service Technician (Automobile)": {
+    "category_context": "Other Vocational Fields",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Automotive Industry": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "Automotive Safety and Tools": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Aviation and Pilot Training": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "B.A. (General / Program)": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Economics": {
+    "category_context": "Economics",
+    "streams": ["Commerce", "Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in English": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Finance and Investment": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Geography": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in History": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Philosophy": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Political Science": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Psychology": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in Sociology": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. (Honours) in a Foreign Language (French, German, Spanish, Japanese, etc.)": {
+    "category_context": "Bachelor of Arts (B.A.)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. / B.Sc. (Honours) in Economics": {
+    "category_context": "Business, Finance, and Economics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.A. LLB (Honours)": {
+    "category_context": "Integrated Law Courses (5-Year)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. in Film, Television & New Media Production": {
+    "category_context": "Journalism and Mass Communication",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. in Journalism": {
+    "category_context": "Journalism and Mass Communication",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.A. or B.Com (if changing fields, starts from 1st year)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "B.A. or B.Sc. in Psychology": {
+    "category_context": "Management and Law (Integrated)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Arch (5-year program)": {
+    "category_context": "Bachelor of Architecture (B.Arch)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Com (General / Pass)": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com (Honours)": {
+    "category_context": "Business, Finance, and Economics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Degree"
+  },
+  "B.Com LLB (Honours) (5-year)": {
+    "category_context": "Integrated Law Courses (via CLAT/AILET etc.)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com in Accounting and Finance": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com in Banking and Insurance (BBI)": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com in Computer Applications": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com in E-Commerce": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Com in Financial Markets (BFM)": {
+    "category_context": "Bachelor of Commerce (B.Com)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Des (Bachelor of Design) - (Product, Animation, UI/UX)": {
+    "category_context": "Design Courses (via UCEED/NID)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Des (Bachelor of Design) in Fashion, Interior, Graphic, UI/UX, Product, Animation": {
+    "category_context": "Design Degrees (via NID/NIFT/UCEED)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.E. in Automobile Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.E. in Civil Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.E. in Electrical Engineering (EEE)": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.E. in Mechanical Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.El.Ed. (Bachelor of Elementary Education)": {
+    "category_context": "Social Sciences and Education",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.F.Sc. (Bachelor of Fisheries Science)": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.F.Tech (Bachelor of Fashion Technology)": {
+    "category_context": "Design Courses (via UCEED/NID)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.FTech (Bachelor of Fashion Technology)": {
+    "category_context": "Design Degrees (via NID/NIFT/UCEED)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.P.Ed. (Bachelor of Physical Education)": {
+    "category_context": "Social Sciences and Education",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "B.Pharm (Bachelor of Pharmacy)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Plan (Bachelor of Planning)": {
+    "category_context": "Bachelor of Architecture (B.Arch)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Botany": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Chemistry": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Economics (requires Math)": {
+    "category_context": "Economics",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Mathematics": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Physics": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. (Honours) in Zoology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. + LLB (Honours) (Specialized in Forensic or Environmental Law)": {
+    "category_context": "Integrated Law Courses",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. LLB (Honours) (Specialized in Medical/Forensic/Environmental Law)": {
+    "category_context": "Management and Law (Integrated)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Actuarial Science": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Agriculture": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Anaesthesia Technology": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Animation and VFX": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Aviation": {
+    "category_context": "Aviation and Pilot Training",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Biochemistry": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Bioinformatics": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Biology / Life Sciences": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Biotechnology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Cardiac Care Technology": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Computer Science": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Data Science": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Dialysis Technology": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Economics": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Electronics": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Engineering (less common, offered by some institutes)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Environmental Science": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Food Technology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Applied Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Forensic Science": {
+    "category_context": "Bachelor of Science (B.Sc.) in Applied Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Forestry": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Genetics": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Geology": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Home Science": {
+    "category_context": "Bachelor of Science (B.Sc.) in Applied Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Horticulture": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in IT / Computer Science (sometimes allows lateral entry)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Information Technology (IT)": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Marine Biology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Medical Lab Technology (MLT)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Microbiology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Life Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Nautical Science (for Merchant Navy)": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Nursing": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Nutrition and Dietetics": {
+    "category_context": "Bachelor of Science (B.Sc.) in Applied Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Optometry (B.Optom)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Perfusion Technology": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Psychology": {
+    "category_context": "Bachelor of Science (B.Sc.) in Applied Sciences",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Radiology / Imaging Technology": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Sericulture": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Statistics": {
+    "category_context": "Bachelor of Science (B.Sc.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Sc. in Statistics (requires Math)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "B.Tech + LLB (Honours) (Specialized in Patent or Cyber Law)": {
+    "category_context": "Integrated Law Courses",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in AI & ML": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Aerospace Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Biotechnology (Maths-based)": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Biotechnology (if Maths was optional or via specific exams)": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Tech in Chemical Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Computer Science": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Cybersecurity": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Data Science": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Electronics and Communication (ECE)": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Food Technology": {
+    "category_context": "Agriculture and Allied Degrees",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "B.Tech in Industrial Engineering": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Information Technology": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.Tech in Mechatronics": {
+    "category_context": "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "B.V.Sc & AH (Bachelor of Veterinary Science and Animal Husbandry)": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BAMS (Ayurvedic Doctor)": {
+    "category_context": "AYUSH (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BAMS (Bachelor of Ayurvedic Medicine and Surgery)": {
+    "category_context": "AYUSH Degrees (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BASLP (Bachelor of Audiology and Speech-Language Pathology)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BBA (Bachelor of Business Administration)": {
+    "category_context": "Business, Finance, and Economics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Arts (Humanities)"
+    ],
+    "type": "Degree"
+  },
+  "BBA (General)": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA (Honours)": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA + LLB (Honours) (Corporate Law)": {
+    "category_context": "Integrated Law Courses",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "BBA LLB (Honours)": {
+    "category_context": "Integrated Law Courses (5-Year)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BBA LLB (Honours) (5-year)": {
+    "category_context": "Integrated Law Courses (via CLAT/AILET etc.)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Business Analytics": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Digital Marketing": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Event Management": {
+    "category_context": "Management Degrees",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BBA in FinTech": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Finance": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Hospital Administration / Healthcare Management": {
+    "category_context": "Management and Law (Integrated)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BBA in International Business": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Marketing": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BBA in Travel and Tourism Management": {
+    "category_context": "Management Degrees",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BBE (Bachelor of Business Economics)": {
+    "category_context": "Business, Finance, and Economics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Degree"
+  },
+  "BBS (Bachelor of Business Studies)": {
+    "category_context": "Bachelor of Business Administration (BBA) / Management",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BCA (Bachelor of Computer Applications)": {
+    "category_context": "Computer Applications",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "BCA (Bachelor of Computer Applications) (with Math/IP)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "BCA (Honours)": {
+    "category_context": "Computer Applications",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "BDS (Bachelor of Dental Surgery)": {
+    "category_context": "Medical/Dental Degrees (via NEET)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BDS (Dentist)": {
+    "category_context": "Dentistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BFA (Bachelor of Fine Arts) in Painting, Sculpture, Applied Arts": {
+    "category_context": "Fine Arts Degree",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BHM (Bachelor of Hotel Management)": {
+    "category_context": "Other Bachelor's Degrees",
+    "streams": ["Commerce", "Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BHMS (Bachelor of Homeopathic Medicine and Surgery)": {
+    "category_context": "AYUSH Degrees (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BHMS (Homeopathic Doctor)": {
+    "category_context": "AYUSH (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BJMC (Bachelor of Journalism and Mass Communication)": {
+    "category_context": "Journalism and Mass Communication",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BMM (Bachelor of Mass Media)": {
+    "category_context": "Journalism and Mass Communication",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BMS (Bachelor of Management Studies)": {
+    "category_context": "Business, Finance, and Economics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Commerce",
+      "Arts (Humanities)"
+    ],
+    "type": "Degree"
+  },
+  "BNYS (Bachelor of Naturopathy and Yogic Sciences)": {
+    "category_context": "AYUSH Degrees (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BNYS (Naturopathy and Yogic Sciences Doctor)": {
+    "category_context": "AYUSH (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BOT (Bachelor of Occupational Therapy)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BPT (Bachelor of Physiotherapy)": {
+    "category_context": "Paramedical Degrees (Bachelor Level)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BSMS (Siddha Doctor)": {
+    "category_context": "AYUSH (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BSW (Bachelor of Social Work)": {
+    "category_context": "Social Sciences and Education",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "BUMS (Bachelor of Unani Medicine and Surgery)": {
+    "category_context": "AYUSH Degrees (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "BUMS (Unani Doctor)": {
+    "category_context": "AYUSH (Alternative Medicine)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "BVA (Bachelor of Visual Arts)": {
+    "category_context": "Fine Arts Degree",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "Bachelor of Architecture (B.Arch)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Arts (B.A.)": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Business Administration (BBA) / Management": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Bachelor of Commerce (B.Com)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Bachelor of Science (B.Sc.)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Science (B.Sc.) in Applied Sciences": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Science (B.Sc.) in Life Sciences": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Technology (B.Tech) / Bachelor of Engineering (B.E.)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Bachelor of Vocation (B.Voc)": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Education Path"
+  },
+  "Bachelor's Degree (Lateral Entry or Fresh)": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Education Path"
+  },
+  "Backend Developer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Bank PO (Probationary Officer) / Bank Manager (Public/Private Sector)": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Bank Reconciliation Statement (BRS)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Banking and Financial Services": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Basic Auto-AC": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Basic Concepts (Mole Concept, Stoichiometry, Atomic Structure, Periodicity)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Basic Electrical Engineering": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Basic Electrical Principles (Ohm's Law, Kirchhoff's Laws)": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Basic Electronics (Diodes, Transistors, Rectifiers)": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Basic Life Support (BLS) and CPR": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Basic Web Page Design (HTML, CSS)": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Bearings, Gears, and Pulleys": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Big Data Engineer": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Bills of Exchange (Promissory Notes, Accommodation Bills)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Biochemist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Bioinformatics Specialist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Biological Classification (Kingdoms - Monera, Protista, Fungi, Plantae, Animalia, Viruses, Viroids, Lichens)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Biology": {
+    "category_context": "Core Subject",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Subject"
+  },
+  "Biology Teacher (School)": {
+    "category_context": "Education and Writing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Biology and Human Welfare (Health and Disease, Immunity, AIDS, Cancer, Drugs, Microbes in Human Welfare - Household, Industrial, Sewage Treatment, Biogas)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Biomedical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Biomolecules (Carbohydrates, Proteins, Vitamins, Nucleic Acids, Enzymes)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Biomolecules (Carbohydrates, Proteins, Vitamins, Nucleic Acids, Enzymes, Hormones)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Biomolecules (Primary and Secondary Metabolites, Proteins, Polysaccharides, Nucleic Acids, Lipids, Enzymes)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Biotechnologist (Genetic Engineering, Industrial)": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Biotechnology (Principles and Processes, Recombinant DNA Technology, Applications in Agriculture, Medicine, Transgenic Animals)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Biotechnology: (Recombinant DNA Technology, Genetic Engineering, Industrial Biotechnology, Bioinformatics Basics)": {
+    "category_context": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Blood Banking (Cross-matching, Transfusion)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Book Publisher / Editor": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Botanist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Boutique / Tailoring Shop Owner": {
+    "category_context": "Self-Employment / Contractor",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Braking Systems (Drum, Disc, Hydraulic, ABS)": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Brand Strategist": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Building Materials and Construction Technology": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Building Plans, Elevations, and Sections (Civil)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Business Analyst": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Career"
+  },
+  "Business Development Manager": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Business Environment (Dimensions: Economic, Social, Legal, Political, Technological)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Business Intelligence (BI) Analyst": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Career"
+  },
+  "Business Owner (Family Business)": {
+    "category_context": "Entrepreneurship",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Business Services (Banking, Insurance, Warehousing, Postal, Telecom)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Business Studies": {
+    "category_context": "Core Subject",
+    "streams": ["Commerce"],
+    "type": "Subject"
+  },
+  "Business, Finance, and Economics": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "CA (Chartered Accountancy) (Foundation Route)": {
+    "category_context": "Professional Certifications (Post-12th)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "CA (Chartered Accountancy) - ICAI": {
+    "category_context": "Professional Certifications (Post-12th Foundation Route)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CAD Operator / Designer (AutoCAD, CATIA, SolidWorks)": {
+    "category_context": "Design and Draughting",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "CAD Software (AutoCAD 2D and 3D)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "CAD/CAM/CAE software certifications": {
+    "category_context": "Advanced Technical Certifications",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "CFA (Chartered Financial Analyst - Level 1 during graduation)": {
+    "category_context": "International Professional Certifications (Post-12th or during/post-grad)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CIMA (Chartered Institute of Management Accountants)": {
+    "category_context": "International Professional Certifications (Post-12th or during/post-grad)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CITS (Craft Instructor Training Scheme) - To become an instructor in an ITI": {
+    "category_context": "Advanced ITI / CITS",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Degree"
+  },
+  "CMA (Cost and Management Accountancy) (Foundation Route)": {
+    "category_context": "Professional Certifications (Post-12th)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "CMA (Cost and Management Accountancy) - ICMAI": {
+    "category_context": "Professional Certifications (Post-12th Foundation Route)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CNC Machines and Automation": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "CNC Operator / Programmer": {
+    "category_context": "Operator (Plant / Machine)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "COPA (Computer Operator and Programming Assistant)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Subject"
+  },
+  "CPA (Certified Public Accountant - after graduation)": {
+    "category_context": "International Professional Certifications (Post-12th or during/post-grad)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CS (Company Secretary) (Foundation Route)": {
+    "category_context": "Professional Certifications (Post-12th)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "CS (Company Secretary) - ICSI": {
+    "category_context": "Professional Certifications (Post-12th Foundation Route)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "CSR (Corporate Social Responsibility) Manager": {
+    "category_context": "Social Work and Development Sector",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "CSSD (Central Sterile Supply Department) Technician": {
+    "category_context": "Emergency and Other Healthcare Roles",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "CT Scan / MRI Technician": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Calculus (Limits, Derivatives, Continuity and Differentiability, Application of Derivatives, Integrals, Application of Integrals, Differential Equations)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Cardiac Care Technician": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": [
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Vocational (Paramedical Diploma/Certificate)"
+    ],
+    "type": "Career"
+  },
+  "Cash Flow Statement (Operating, Investing, Financing Activities)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Cell Cycle and Cell Division (Mitosis, Meiosis)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Cell: The Unit of Life (Cell Theory, Prokaryotic vs Eukaryotic, Cell Organelles, Cell Membrane, Cell Wall)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Certified Management Accountant (CMA / CIMA) - (Costing, Management Accounting)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Certified Public Accountant (CPA - US)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Chartered Accountant (CA)": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Chartered Accountant (CA) - (Audit, Taxation, Corporate Finance)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Chartered Financial Analyst (CFA) - (Investment Management, Portfolio Analysis)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Chemical Bonding and Molecular Structure (VSEPR, Hybridization, VBT, MOT)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Chemical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Chemical Engineering: (Fluid Flow, Heat Transfer, Mass Transfer, Chemical Technology, Process Instrumentation)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Chemical Kinetics (Rate of Reaction, Order of Reaction, Arrhenius Equation)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Chemist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Chemistry": {
+    "category_context": "Core Subject",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Subject"
+  },
+  "Chemistry in Everyday Life (Drugs, Medicines, Soaps, Detergents, Food Preservatives)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Chemistry in Everyday Life (Drugs, Soaps, Detergents, Food Preservatives)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Chief Information Security Officer (CISO)": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Child Psychologist": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Circuit Installation and Repair": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Civil Contractor (Small Projects)": {
+    "category_context": "Self-Employment",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Civil Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Civil Engineering Drawing (AutoCAD)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Civil Services and Public Administration (UPSC, State PSC)": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Clinical Biochemistry (Blood Glucose, Renal/Liver Function Tests)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Clinical Nutritionist / Dietician (Hospital)": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Clinical Pathology (Urine, Stool, Semen Analysis)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Clinical Psychologist (RCI Licensed)": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Clinical Psychologist (with RCI license)": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Cloud Architect / Engineer (AWS, Azure, GCP)": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Commercial Pilot": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Commercial Pilot License (CPL) from a flying school": {
+    "category_context": "Aviation and Pilot Training",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Common Postgraduate Options (Post-Graduation)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Communication Systems": {
+    "category_context": "Physics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Community Service Manager": {
+    "category_context": "Social Work and Development Sector",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Company Accounts (Issue of Shares, Forfeiture, Re-issue, Issue of Debentures)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Company Secretary (CS - Legal Role)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Company Secretary (CS) - (Corporate Law, Governance, Compliance)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Complete 12th grade (NIOS) to become eligible for non-technical degree courses (B.A., B.Com, etc.)": {
+    "category_context": "NIOS / Equivalent 12th Grade",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Degree"
+  },
+  "Computer Applications": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Computer Fundamentals and Hardware": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Computer Hardware Technician": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Computer Hardware and Maintenance": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Computer Networks and Security": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Computer Operator": {
+    "category_context": "IT and Office Roles",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Computer Science Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Computer Science: (Computer Systems, Python/C++/Java Programming, Data Structures - Lists, Stacks, Queues, DBMS, SQL, Computer Networks, Cyber Ethics, Cyber Safety)": {
+    "category_context": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Computerised Accounting (Introduction to Tally/ERP systems, Database concepts)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Concrete Technology": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Conservation Architect": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Conservator / Restoration Specialist": {
+    "category_context": "Museums, Archives, and Heritage",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Consulting": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Consumer Protection (Consumer Rights, Responsibilities, CPA 2019, Grievance Redressal)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Contemporary World Politics (Cold War, US Hegemony, Alternative Centers of Power - EU/ASEAN, South Asia, International Organizations - UN, Globalization)": {
+    "category_context": "Political Science",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Content Strategist": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Content Writer / Creator / Strategist": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Control Systems": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Controlling (Process, Techniques)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Coordinate Geometry (Straight Lines, Conic Sections - Circle, Parabola, Ellipse, Hyperbola, 3D Geometry)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Coordination Compounds (Nomenclature, Isomerism, VBT, CFT)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Copywriter (Advertising)": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Corporate Communications Manager": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Corporate Counsel / Legal Advisor (In-house)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Corporate Lawyer": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Corporate Lawyer (M&A, Contracts)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Cost and Management Accountant (CMA)": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Counselling Psychologist": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Counsellor (School, Career, Mental Health, Marriage)": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Creative Arts and Performance": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Creative Writing (Short Story, Poetry, Script Writing)": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Crisis Management Specialist": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Critical Care Nurse (ICU)": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Curator": {
+    "category_context": "Museums, Archives, and Heritage",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Current Electricity (Ohm's Law, Circuits, Kirchhoff's Laws, Electrical Instruments)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Cyber Lawyer (requires LLB)": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Cyber Security and Internet Basics": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Cybersecurity": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Cybersecurity Analyst": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Dancer / Choreographer": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Darkroom Procedures / Digital Image Processing": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Data Analyst": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Data Analyst (Finance, Marketing)": {
+    "category_context": "Data and Analytics (Commerce Focus)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Data Architect": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Data Entry Operator": {
+    "category_context": "IT and Office Roles",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Data Science and Analytics": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Data Scientist": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Data Scientist (Finance)": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Data Structures and Algorithms": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Data and Analytics (Commerce Focus)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Database Administrator (DBA)": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Database Management Systems (DBMS, SQL Basics)": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Database Management Systems (DBMS, SQL)": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Deck Officer (Captain, Chief Mate)": {
+    "category_context": "Merchant Navy",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Defence Academies (Commissioned Officer)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Defence and Aviation": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Dental Hygienist / Dental Assistant (in Dental Clinics)": {
+    "category_context": "Assistant / Hygienist (in Clinics)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Dentistry": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Depreciation, Provisions, and Reserves": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Design Courses (via UCEED/NID)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Design Degrees (via NID/NIFT/UCEED)": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Design and Creative Arts": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Design and Creative Fields": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Design and Draughting": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "DevOps Engineer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Development Sector Professional (NGOs, World Bank, IMF)": {
+    "category_context": "Economics and Policy",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Diagnostics Technician": {
+    "category_context": "Automotive Industry",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Dialysis Technician": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Dialysis Technician (in Kidney Centers)": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Digital Business and Marketing": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Digital Forensics Analyst": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Digital Marketing Manager": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Digital Photographer: (Camera Operations, Lighting, Composition, Photo Editing - Photoshop/Lightroom)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Diploma in Civil Engineering": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Subject"
+  },
+  "Diploma in Computer Engineering / IT": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Subject"
+  },
+  "Diploma in Dental Hygiene: (Oral Anatomy, Dental Materials, Scaling and Polishing, Dental X-Rays, Community Dentistry)": {
+    "category_context": "Other Diplomas / Certificates",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Diploma in Dialysis Technology: (Kidney Anatomy/Physiology, Principles of Dialysis, Hemodialysis Machine, Patient Care, Water Treatment)": {
+    "category_context": "Other Diplomas / Certificates",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Diploma in Electrical Engineering": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Subject"
+  },
+  "Diploma in Emergency Medical Services (Paramedic): (Trauma Care, BLS, Advanced Cardiac Life Support - ACLS, Triage, Ambulance Operations)": {
+    "category_context": "Other Diplomas / Certificates",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Diploma in Mechanical Engineering": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Subject"
+  },
+  "Diploma in Medical Laboratory Technology (DMLT)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Subject"
+  },
+  "Diploma in Medical Records Technology (DMRT): (Medical Terminology, Record Keeping, ICD-10 Coding, Hospital Statistics, Medico-Legal Aspects)": {
+    "category_context": "Other Diplomas / Certificates",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Diploma in Operation Theatre Technology (DOTT)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Subject"
+  },
+  "Diploma in Optometry (D.Optom): (Eye Anatomy, Refraction, Contact Lenses, Optical Instruments, Common Eye Diseases)": {
+    "category_context": "Other Diplomas / Certificates",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Diploma in Radiology / X-Ray Technology (DMRT/DRT)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Subject"
+  },
+  "Direct admission into the 2nd year (3rd semester) of a B.Tech/B.E. program in the same specialization (e.g., Diploma in Mech. -> B.Tech in Mech.)": {
+    "category_context": "Lateral Entry to B.Tech / B.E. / B.Arch",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "Direct admission into the 2nd year of B.Arch (after Diploma in Architecture Assistantship)": {
+    "category_context": "Lateral Entry to B.Tech / B.E. / B.Arch",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "Directing (Motivation - Maslow's Hierarchy, Leadership, Communication)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Draughtsman (CAD Operator) (Civil/Mechanical)": {
+    "category_context": "IT and Office Roles",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Draughtsman (Civil / Mechanical)": {
+    "category_context": "Design and Draughting",
+    "streams": [
+      "Vocational (Polytechnic Diploma)",
+      "Vocational (ITI - Industrial Training Institute)"
+    ],
+    "type": "Career"
+  },
+  "Dress Making / Fashion Design: (Pattern Making, Cutting, Sewing, Garment Construction, Fashion Illustration)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Drone Pilot / UAV Operator": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Drug Inspector": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Drug Researcher / Scientist (R&D)": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "E-commerce Concepts": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "E-commerce Manager (Marketplace, D2C)": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "ECG Technician": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Earthing and Grounding": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Ecology and Environment (Organisms and Populations, Ecosystems, Biodiversity and Conservation, Environmental Issues - Pollution, Climate Change)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Economic Journalist": {
+    "category_context": "Economics and Policy",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Economics": {
+    "category_context": "Core Subject",
+    "streams": ["Commerce", "Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Economics and Policy": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Economics: (Microeconomics, Macroeconomics, Statistics for Economics, Indian Economic Development)": {
+    "category_context": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Economist": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Commerce",
+      "Arts (Humanities)"
+    ],
+    "type": "Career"
+  },
+  "Editor / Sub-Editor": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Education and Writing": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Electrical Contractor": {
+    "category_context": "Self-Employment",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Electrical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Electrical Installation and Maintenance": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Electrical Machines (DC/AC Motors, Generators, Transformers)": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Electrical Measurements and Instrumentation": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Electrical Technician (Operations, Maintenance)": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Electrical Wiring (Residential, Commercial, Industrial)": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Electrician": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Subject"
+  },
+  "Electrician (Maintenance, Installation)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Electro-Technical Officer (ETO)": {
+    "category_context": "Merchant Navy",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Electromagnetic Induction and AC (Faraday's Law, Lenz's Law, AC Circuits)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Electromagnetic Induction and AC (Faraday's Law, Lenz's Law, AC Circuits, Transformers)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Electromagnetic Waves": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Electronic Devices (Semiconductors, Diodes, Transistors)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Electronic Devices (Semiconductors, Diodes, Transistors, Logic Gates)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Electronics Assembler / Tester": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Electronics Devices and Circuits (Analog/Digital)": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Electronics and Communication (ECE): (Analog/Digital Circuits, Communication Systems, Microprocessors, VLSI)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Electronics and Communication Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Electrostatics (Electric Charges, Fields, Potential, Capacitance)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Emergency and Other Healthcare Roles": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career Field"
+  },
+  "Emerging Modes of Business (E-Business, BPO, KPO, Outsourcing)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Engine Systems (Petrol, Diesel) - Overhauling": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Engineering": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Engineering Drawing (Projections, Sections, Views)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Engineering Drawing / CAD (AutoCAD, SolidWorks)": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "English": {
+    "category_context": "Core Subject",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Commerce"
+    ],
+    "type": "Subject"
+  },
+  "English / Other Language (e.g., Hindi, Sanskrit, French, German)": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Entrepreneurship": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Environmental Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Environmental Scientist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Equity Research Analyst": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Estimating and Costing": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Ethical Hacker": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Event Manager / Wedding Planner": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Fashion Designer": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Fashion Technologist (B.F.Tech)": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Filmmaker / Director / Cinematographer": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Finance, Economics, and Actuarial Science": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Financial Advisory Consultant": {
+    "category_context": "Consulting",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Financial Analyst": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Financial Analyst (CFA)": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Financial Controller": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Financial Management (Investment, Financing, Dividend Decisions, Capital Structure, Working Capital)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Financial Markets (Money Market - Instruments, Capital Market - Primary/Secondary, SEBI)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Financial Risk Manager (FRM)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Financial Statements of Sole Proprietorship (Trading Account, Profit & Loss, Balance Sheet)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Fine Arts Degree": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Fine Arts: (Painting, Sculpture, Graphic Design, History of Art)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Fintech Analyst": {
+    "category_context": "Data and Analytics (Commerce Focus)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Fisheries Scientist": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Fitter": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Subject"
+  },
+  "Fitter (Assembly, Maintenance)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Floriculturist": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Fluid Mechanics and Hydraulics": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Food Safety Officer": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Food Scientist": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Food Technologist / Food Scientist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Forensic Scientist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Career"
+  },
+  "Forklift Operator": {
+    "category_context": "Operator (Plant / Machine)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Forms of Business Organisations (Sole Proprietorship, Partnership, Company, Cooperative, HUF)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Foundations of Business (Nature and Purpose of Business, History of Trade)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Framing the Constitution": {
+    "category_context": "History",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Freelance CAD Draughtsman": {
+    "category_context": "Self-Employment / Contractor",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Freelance Photographer / Videographer": {
+    "category_context": "Self-Employment / Contractor",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Freelance Web Developer / Designer": {
+    "category_context": "Self-Employment",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Fresh admission to B.Sc. Nursing (if eligible with 12th Science)": {
+    "category_context": "Bachelor's Degree (Lateral Entry or Fresh)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Frontend Developer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Full Stack Developer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Fundamentals of Human Geography (Population - Distribution/Density/Growth, Human Activities - Primary/Secondary/Tertiary/Quaternary, Transport, Communication, International Trade)": {
+    "category_context": "Geography",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Fundamentals of Physical Geography (The Earth - Origin/Evolution, Interior, Landforms - Fluvial/Glacial/Arid, Climate, Water - Oceans/Circulation, Soils, Biodiversity)": {
+    "category_context": "Geography",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Game Designer": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Game Developer / Programmer": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "General Manager / CEO (with experience)": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Geneticist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Genetics and Evolution (Mendelian Inheritance, Chromosomal Theory, Sex Determination, Linkage and Recombination, Molecular Basis of Inheritance - DNA, RNA, Genetic Code, Gene Expression, Human Genome Project, DNA Fingerprinting, Evolution - Theories and Evidence)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Geography": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Geologist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Geotechnical Engineering (Soil Mechanics)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Government Jobs (Technician / Assistant)": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "Grammar (Tenses, Modals, Voice, Narration, Clauses, Transformation of Sentences)": {
+    "category_context": "English",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Commerce"
+    ],
+    "type": "Topic"
+  },
+  "Graphic Designer": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Hand Tools and Operations (Filing, Sawing, Drilling, Tapping)": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Hand and Power Tools": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Hardware Technician": {
+    "category_context": "IT and Office Roles",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Hardware and Networking Engineer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Health Coach / Wellness Consultant": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Health Information Management Specialist": {
+    "category_context": "Emergency and Other Healthcare Roles",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Health Information Manager": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Healthcare IT Specialist": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Healthcare Management": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Healthcare Manager": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Hematology (Blood Cell Counts, Hemoglobin, Blood Groups)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Heritage Management Consultant": {
+    "category_context": "Museums, Archives, and Heritage",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Histopathology (Tissue Processing, Staining)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Historian / Archaeologist": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "History": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "History of Literature": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Home Science: (Food and Nutrition, Human Development, Resource Management, Textiles and Apparel)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Home Science: (Human Development, Nutrition, Resource Management, Textiles and Apparel, Communication and Extension)": {
+    "category_context": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Horticulturist": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Hospital Administrator": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Hospital Administrator (with specialization)": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Hospital Housekeeping: (Sanitation, Biomedical Waste Management, Patient Room Maintenance, Infection Control)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Hospitality, Travel, and Management": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Hotel Management: (Front Office, Housekeeping, Food Production, F&B Service)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Hotel Manager (Front Office, F&B, Housekeeping)": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Hotel Operations Manager (Hotel Management)": {
+    "category_context": "Other Vocational Fields",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Human Anatomy and Physiology": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Human Development (Lifespan Perspective, Cognitive Development - Piaget, Moral Development - Kohlberg)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Human Memory (Models - Atkinson-Shiffrin, Levels of Processing, Forgetting)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Human Physiology (Digestion and Absorption, Breathing and Respiration, Body Fluids and Circulation, Excretory Products and Elimination, Locomotion and Movement, Neural Control and Coordination, Chemical Coordination and Integration - Hormones)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Human Resources (HR) Manager (Recruitment, Compensation, HRBP)": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Human Resources (HR) Manager (from BBA/MBA)": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Human Rights Advocate": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Hydrocarbons (Alkanes, Alkenes, Alkynes, Arenes)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Hydrocarbons (Alkanes, Alkenes, Alkynes, Arenes, Aromaticity)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "IAS (Indian Administrative Service)": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "IFS (Indian Foreign Service)": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "IPS (Indian Police Service)": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "IRS (Indian Revenue Service)": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "IT Manager": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "IT Support Specialist": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "IT and Office Roles": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "IT and Software": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "Illustrator": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Immunologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Incident Responder": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "India - People and Economy (Population, Human Settlements, Land Resources, Water Resources, Mineral and Energy Resources, Transport, Trade, GIS/GPS Basics)": {
+    "category_context": "Geography",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "India - Physical Environment (Physiography, Drainage Systems, Climate, Natural Vegetation, Soils)": {
+    "category_context": "Geography",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Indian Constitution at Work (Rights, Executive, Legislature, Judiciary, Federalism, Local Government)": {
+    "category_context": "Political Science",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Indian Economic Development (Indian Economy 1950-1990, Economic Reforms since 1991, Poverty, Human Capital Formation, Rural Development, Sustainable Development)": {
+    "category_context": "Economics",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Indian Economic Development (Indian Economy on the eve of Independence, Five Year Plans 1950-1990, Economic Reforms since 1991 - LPG, Poverty, Human Capital Formation, Rural Development, Employment, Infrastructure, Sustainable Development, India-China-Pakistan Comparative Development)": {
+    "category_context": "Economics",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Indian Naval Academy (INA) - 10+2 B.Tech Cadet Entry": {
+    "category_context": "Defence Academies (Commissioned Officer)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Indian Society (Demographic Structure, Social Institutions, Cultural Diversity, Social Inequality and Exclusion)": {
+    "category_context": "Sociology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Industrial Designer": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Industrial Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Industrial Management": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Industrial Pharmacist (Manufacturing, Quality Control)": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Infection Control in OT": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Informatics Practices (IP): (Python Programming, Pandas DataFrames, Data Visualization with Matplotlib/Pyplot, Database Management, SQL Queries - Joins, Group By, Computer Networks, Cyber Ethics)": {
+    "category_context": "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Informatics Practices: (Python, Pandas, NumPy, Matplotlib, Data Visualization, DBMS, SQL, Computer Networks, Societal Impacts)": {
+    "category_context": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Information Security Manager": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Information Technology (IT) & Software": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Insolvency and Bankruptcy (IBC) Practitioner": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Installation and Maintenance of Electrical Appliances": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Insurance Underwriter / Surveyor": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Integrated B.A. + B.Ed.": {
+    "category_context": "Social Sciences and Education",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "Integrated Law Courses": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Integrated Law Courses (5-Year)": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Integrated Law Courses (via CLAT/AILET etc.)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Integrated M.A. in Development Studies": {
+    "category_context": "Specialized/Integrated Masters",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "Integrated M.A. in Economics (e.g., IITs)": {
+    "category_context": "Specialized/Integrated Masters",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "Integrated M.A. in Liberal Arts / Humanities": {
+    "category_context": "Specialized/Integrated Masters",
+    "streams": ["Arts (Humanities)"],
+    "type": "Degree"
+  },
+  "Integrated MCA (5-year program)": {
+    "category_context": "Computer Applications",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Intellectual Property (IP) Lawyer": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Interior Design: (Design Principles, Materials, CAD, Furniture Design, Building Services)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Interior Designer": {
+    "category_context": "Architecture and Planning",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Arts (Humanities)"
+    ],
+    "type": "Career"
+  },
+  "Interior Designer (Junior)": {
+    "category_context": "Design and Draughting",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Internal Auditor": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Internal Trade (Wholesale, Retail, GST)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "International Business (Export-Import Procedures, WTO, Foreign Trade)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "International Professional Certifications (Post-12th or during/post-grad)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Introducing Sociology (Society, Social Institutions - Family/Marriage/Kinship, Culture, Socialization)": {
+    "category_context": "Sociology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Introduction to Accounting (Objectives, Terminology, Principles, Concepts, GAAP)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Investment Banker": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Investment Banker (M&A, IPOs)": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "JE in Metro Rail Corporations": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "JE in Public Sector Undertakings (PSUs) (BHEL, GAIL, NTPC, ONGC)": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "JE in Railways (RRB JE)": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Journalism and Mass Communication": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Journalist (Print, Broadcast, Digital)": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Judge (Judicial Services)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Junior Chemical Engineer / Plant Operator (Chemical)": {
+    "category_context": "Other Vocational Fields",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Junior Database Administrator (DBA)": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Junior Engineer (JE) in Govt. Depts (PWD, CPWD, Irrigation, PHE)": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Junior Engineer / Supervisor (Private Sector)": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "Junior Engineer / Technician (Government Sector)": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "Junior Web Developer": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "LLB (3-year course after graduation)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "Lab Procedures, Safety, and Waste Management": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Lab Technician (DMLT)": {
+    "category_context": "Other Vocational Fields",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Landscape Architect": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Language and Translation": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Lateral Entry to B.Tech / B.E. / B.Arch": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Education Path"
+  },
+  "Lateral entry (direct 2nd year) to B.Sc. in the respective field (e.g., DMLT -> B.Sc. in MLT)": {
+    "category_context": "Bachelor's Degree (Lateral Entry or Fresh)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Lateral entry (direct admission) into the 2nd year of a Diploma in Engineering (e.g., ITI Electrician -> Diploma in Electrical Engineering)": {
+    "category_context": "Polytechnic Diploma (Lateral Entry)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Degree"
+  },
+  "Lateral entry into B.Voc programs related to healthcare (e.g., B.Voc in MLT, B.Voc in Patient Care Management)": {
+    "category_context": "Bachelor of Vocation (B.Voc)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Lateral entry to B.Sc. in Operation Theatre Technology": {
+    "category_context": "Bachelor's Degree (Lateral Entry or Fresh)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Lateral entry to B.Sc. in Optometry": {
+    "category_context": "Bachelor's Degree (Lateral Entry or Fresh)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Lateral entry to B.Sc. in Radiology / Imaging Technology": {
+    "category_context": "Bachelor's Degree (Lateral Entry or Fresh)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Degree"
+  },
+  "Lathe Operations (Turning, Facing, Tapering)": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Law (requires LLB)": {
+    "category_context": "General",
+    "streams": ["Commerce", "Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Lawyer (Litigation - Civil, Criminal, Family)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Learning (Classical Conditioning, Operant Conditioning, Observational Learning)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Legal Advisor (In-house Counsel)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Legal Studies: (Theory of Law, Judiciary, Legal Maxims, Human Rights, Property Law, Contract Law)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Legal Studies: (Theory of Law, Types of Law, Indian Constitution, Judiciary, Civil and Criminal Law, Legal Maxims, Human Rights)": {
+    "category_context": "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Lexicographer (Dictionary Compiler)": {
+    "category_context": "Language and Translation",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Life Sciences and Research": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Limits, Fits, and Tolerances (Mechanical)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Linear Programming (LPP)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Linguist": {
+    "category_context": "Language and Translation",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Linguistics (Phonetics, Morphology - if specialized)": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Literature (Prose, Poetry, Supplementary Reader)": {
+    "category_context": "English",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Commerce"
+    ],
+    "type": "Topic"
+  },
+  "M.A. / M.Sc. in Economics": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "M.Com (Master of Commerce)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "MBA (Master of Business Administration) - (Finance, Marketing, HR, Operations, IT, International Business, Business Analytics)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "MBBS (Bachelor of Medicine, Bachelor of Surgery)": {
+    "category_context": "Medical/Dental Degrees (via NEET)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Degree"
+  },
+  "MBBS (General Physician, Surgeon)": {
+    "category_context": "Medical Doctor (Physician/Surgeon)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "MD (Doctor of Medicine - Specialist, e.g., Cardiologist, Dermatologist, Neurologist, Pediatrician)": {
+    "category_context": "Medical Doctor (Physician/Surgeon)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "MDS (Master of Dental Surgery - e.g., Orthodontist, Endodontist, Prosthodontist, Oral Surgeon)": {
+    "category_context": "Dentistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "MFC (Master of Finance and Control)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "MIB (Master of International Business)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "MS (Master of Surgery - Specialist, e.g., Orthopaedic Surgeon, Neurosurgeon, ENT Surgeon)": {
+    "category_context": "Medical Doctor (Physician/Surgeon)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "MS Office Suite (Word, Excel, PowerPoint, Access)": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Machine Design": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Machine Learning Scientist": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Machine Operator (Lathe, Milling)": {
+    "category_context": "Operator (Plant / Machine)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Machine Part Drawing and Assembly (Mechanical)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Macroeconomics (National Income and Related Aggregates - GDP, GNP, NNP, Money and Banking - Central Bank/Commercial Bank functions, Monetary Policy, Determination of Income and Employment - AD/AS model, Keynesian Theory, Government Budget - Objectives, Components, Fiscal Policy, Fiscal Deficit, Balance of Payments - BoP, Foreign Exchange Rate)": {
+    "category_context": "Economics",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Macroeconomics (National Income, Money and Banking, Determination of Income and Employment, Government Budget, Balance of Payments)": {
+    "category_context": "Economics",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Magnetic Effects of Current and Magnetism (Magnetic Fields, Forces, Torque)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Magnetic Effects of Current and Magnetism (Magnetic Fields, Forces, Torque, Earth's Magnetism)": {
+    "category_context": "Physics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Maintenance Engineer / Technician (Mechanical, Electrical)": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Management Consultant": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Management Consultant (Strategy, Operations)": {
+    "category_context": "Consulting",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Management Degrees": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Management and Administration": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Management and Law (Integrated)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Management, Business, and Law": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Manufacturing Technology / Workshop Practice": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Marine Biologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Marine Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Marine Engineer (Chief Engineer)": {
+    "category_context": "Merchant Navy",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Market Research Analyst": {
+    "category_context": "Data and Analytics (Commerce Focus)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Marketing Management (Functions, Marketing Mix - 4Ps: Product, Price, Place, Promotion, Branding, Labelling)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Marketing Manager (Brand, Product, Digital)": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Marketing Manager (from BBA/MBA)": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Materials Scientist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Mathematical Reasoning": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Mathematics": {
+    "category_context": "Core Subject",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Subject"
+  },
+  "Mathematics (Core): (See PCM topics, essential for B.Sc. Economics, B.Sc. Statistics, Actuarial Science)": {
+    "category_context": "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Mathematics: (See PCM topics, often chosen for B.Tech in Biotechnology or Bioinformatics)": {
+    "category_context": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Mechanic (Motor Vehicle - MMV)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Subject"
+  },
+  "Mechanic (Plant Maintenance)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Mechanical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Mechanics (Kinematics, Laws of Motion, Work, Energy, Power, System of Particles, Rotational Motion, Gravitation)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Mechatronics Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Media Planner": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Media, Journalism, and Publishing": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Medical Coder": {
+    "category_context": "Education and Writing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Medical Coder (after certification)": {
+    "category_context": "Emergency and Other Healthcare Roles",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Medical Doctor (Physician/Surgeon)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Medical Imaging Modalities (X-Ray, CT, MRI, Ultrasound basics)": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Medical Lab Technician (MLT)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Medical Laboratory Technician (Pathology Lab)": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Medical Laboratory Technology (DMLT): (Anatomy, Physiology, Biochemistry, Pathology, Microbiology)": {
+    "category_context": "Other Diplomas",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Medical Records Technician": {
+    "category_context": "Emergency and Other Healthcare Roles",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Medical Representative": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Medical Sales Representative (for devices related to trade)": {
+    "category_context": "Sales and Support (Medical Equipment)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Medical Tourism Coordinator": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Medical Writer / Scientific Writer": {
+    "category_context": "Education and Writing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Medical/Dental Degrees (via NEET)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Merchant Navy": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Metallurgical Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Metallurgy (Principles and Processes of Isolation of Elements)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Meteorologist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Methods of Enquiry in Psychology (Goals, Steps, Research Methods - Observation, Experimental, Correlational)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Microbiologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Microbiology (Bacterial Staining, Culture, Sensitivity)": {
+    "category_context": "Diploma in Medical Laboratory Technology (DMLT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Microeconomics (Introduction, Central Problems, Consumer's Equilibrium - Utility/Indifference Curve, Demand, Elasticity of Demand, Production Function, Cost, Revenue, Supply, Forms of Market - Perfect Competition, Monopoly, Monopolistic, Oligopoly, Price Determination)": {
+    "category_context": "Economics",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Microeconomics (Introduction, Consumer's Equilibrium, Demand, Supply, Forms of Market, Price Determination)": {
+    "category_context": "Economics",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Military Nurse (MNS)": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Milling, Grinding, and Drilling Operations": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Mobile Application Development (Basics)": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Modern Physics (Dual Nature of Matter, Photoelectric Effect, Atoms, Nuclei, Radioactivity)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Morphology and Anatomy of Flowering Plants (Root, Stem, Leaf, Flower, Fruit, Tissues)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Motivation and Emotion (Theories of Motivation - Maslow, Theories of Emotion)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Motor Winding (DC/AC)": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Municipal Corporation (Plumber, Electrician, Operator)": {
+    "category_context": "Government Jobs (Technician / Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Museum Educator": {
+    "category_context": "Museums, Archives, and Heritage",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Museums, Archives, and Heritage": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Music (Vocal or Instrumental): (Music Theory, History of Music, Practical Performance)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Musician / Singer / Composer": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "NGO Manager / Program Coordinator": {
+    "category_context": "Social Work and Development Sector",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "NIOS / Equivalent 12th Grade": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Education Path"
+  },
+  "Nanotechnologist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "National Apprenticeship Certificate (NAC) from a company (e.g., Railways, PSUs, Private Industry). This combines on-the-job training with a stipend.": {
+    "category_context": "Apprenticeship",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Degree"
+  },
+  "National Defence Academy (NDA) (Army, Navy, Air Force)": {
+    "category_context": "Defence Academies (Commissioned Officer)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Degree"
+  },
+  "Nature and Significance of Management (Principles, Levels, Functions)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Nautical Surveyor": {
+    "category_context": "Merchant Navy",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Network Administrator": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Network Administrator / Technician": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Network Security Engineer": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Neuropsychologist": {
+    "category_context": "Psychology and Counselling",
+    "streams": [
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Arts (Humanities)"
+    ],
+    "type": "Career"
+  },
+  "News Anchor / Reporter": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Nurse Educator / Professor": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Nurse Supervisor / Administrator": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Nursing": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Nutrition and Dietetics": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Occupational Therapist": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Oceanographer": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Office Assistant (with COPA)": {
+    "category_context": "IT and Office Roles",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Officer in Air Force (NDA - Flying/Ground Duty)": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Officer in Army (NDA, TES)": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Officer in Navy (NDA, 10+2 B.Tech Cadet Entry)": {
+    "category_context": "Defence and Aviation",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Operating Systems (Windows, Linux)": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": [
+      "Vocational (Polytechnic Diploma)",
+      "Vocational (ITI - Industrial Training Institute)"
+    ],
+    "type": "Topic"
+  },
+  "Operation Theatre (OT) Nurse": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Operation Theatre (OT) Technician": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Operation Theatre Technician (OTT)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Operations Manager": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Career"
+  },
+  "Operator (Plant / Machine)": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "Optics (Ray Optics, Reflection, Refraction, Lenses, Prisms, Microscopes, Telescopes)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Optional Subject (e.g., Computer Science / Physical Education / Economics)": {
+    "category_context": "Core Subject",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Subject"
+  },
+  "Optional Subject (e.g., Mathematics / Informatics Practices / Legal Studies)": {
+    "category_context": "Core Subject",
+    "streams": ["Commerce"],
+    "type": "Subject"
+  },
+  "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)": {
+    "category_context": "Core Subject",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Subject"
+  },
+  "Optometrist (Eye Care Specialist)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Optometrist Assistant / Ophthalmic Technician": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Organic Chemistry - Basic Principles (GOC, Nomenclature, Isomerism, Reaction Mechanisms)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Organic Compounds Containing Halogens (Haloalkanes, Haloarenes)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Organic Compounds Containing Halogens, Oxygen, Nitrogen (Alcohols, Phenols, Ethers, Aldehydes, Ketones, Carboxylic Acids, Amines, Diazonium Salts)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Organic Compounds Containing Nitrogen (Amines, Cyanides, Isocyanides, Diazonium Salts)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Organic Compounds Containing Oxygen (Alcohols, Phenols, Ethers, Aldehydes, Ketones, Carboxylic Acids)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Organising (Structure, Delegation, Decentralization)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Organizational Psychologist": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Organizational Psychologist (HR)": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Oscillations and Waves (Simple Harmonic Motion, Doppler Effect, Wave Optics)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Other Bachelor's Degrees": {
+    "category_context": "General",
+    "streams": ["Commerce", "Vocational (Polytechnic Diploma)"],
+    "type": "Education Path"
+  },
+  "Other Diplomas": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Subject"
+  },
+  "Other Diplomas / Certificates": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Subject"
+  },
+  "Other Trades (Examples)": {
+    "category_context": "Core Subject",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Subject"
+  },
+  "Other Vocational Fields": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "Own Repair Shop (Garage, AC/Fridge, Electrical)": {
+    "category_context": "Self-Employment / Contractor",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Owner of Repair/Maintenance Workshop (Auto, RAC)": {
+    "category_context": "Self-Employment",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "PGDM (Post Graduate Diploma in Management)": {
+    "category_context": "Common Postgraduate Options (Post-Graduation)",
+    "streams": ["Commerce"],
+    "type": "Degree"
+  },
+  "PLC and SCADA (Basics)": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Painter / Sculptor (Fine Artist)": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Paramedic (Emergency Medical Technician - EMT)": {
+    "category_context": "Emergency and Other Healthcare Roles",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Paramedic (Emergency Medical Technician)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Paramedical Degrees (Bachelor Level)": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Education Path"
+  },
+  "Partnership Firms (Fundamentals, Admission, Retirement, Death, Dissolution, Goodwill)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Patent Lawyer (requires LLB)": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Patient Care and Ethics": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Patient Monitoring (Vital Signs, ECG)": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Pediatric Nurse": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Penetration Tester (Pen Tester)": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Pension Fund Manager": {
+    "category_context": "Actuarial Science (with Math)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Performance Marketer": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Perfusionist (Heart-Lung Machine Operator)": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Petroleum Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Pharmaceutical Project Manager": {
+    "category_context": "Healthcare Management",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Pharmacist (Retail, Hospital, Clinical)": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Pharmacist Assistant (with D.Pharm - Diploma in Pharmacy)": {
+    "category_context": "Assistant / Hygienist (in Clinics)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Pharmacovigilance Associate": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Pharmacy": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Philosophy: (Introduction to Western and Indian Philosophy, Logic, Ethics, Epistemology)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Photojournalist": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods)": {
+    "category_context": "Optional (e.g., Fine Arts / Legal Studies / Home Science / Philosophy)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods, Health and Nutrition)": {
+    "category_context": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)", "Commerce"],
+    "type": "Topic"
+  },
+  "Physical Education: (Sports Physiology, Biomechanics, Sports Psychology, Training Methods, Health and Nutrition, Yoga)": {
+    "category_context": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Physical Sciences and Research": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career Field"
+  },
+  "Physical World and Measurement": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Physicist": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Physics": {
+    "category_context": "Core Subject",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Subject"
+  },
+  "Physiotherapist": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Physiotherapy Assistant": {
+    "category_context": "Assistant / Hygienist (in Clinics)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Pipe Fitting and Plumbing Basics": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Planning (Process, Types of Plans)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Plant Kingdom (Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Plant Operator (e.g., in Power Plants, Chemical Plants)": {
+    "category_context": "Operator (Plant / Machine)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Plant Physiology (Transport in Plants, Mineral Nutrition, Photosynthesis, Respiration, Plant Growth and Development)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Plumber (Industrial, Construction)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Plumber: (Pipe Fitting, Sanitation Systems, Water Supply Systems, Fixture Installation, Repair)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Plumbing/Welding Contractor": {
+    "category_context": "Self-Employment / Contractor",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Policy Analyst (Government, Think Tanks)": {
+    "category_context": "Economics and Policy",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Policy Analyst / Advocate": {
+    "category_context": "Social Work and Development Sector",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Political Analyst / Psephologist": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Political Science": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Political Theory (Liberty, Equality, Justice, Rights, Secularism, Nationalism, Peace, Development)": {
+    "category_context": "Political Science",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Politics in India Since Independence (Nation-Building, One-Party Dominance, Party Systems, Democratic Resurgence, Indian Foreign Policy, Regional Aspirations)": {
+    "category_context": "Political Science",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Pollution Control (BS-VI norms)": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Polymers (Classification, Polymerization, Common Polymers)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Polytechnic Diploma (Lateral Entry)": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Education Path"
+  },
+  "Portfolio Manager / Wealth Manager": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Post-Diploma in specialized fields (e.g., Tool Design, Industrial Safety, PLC/SCADA)": {
+    "category_context": "Advanced Technical Certifications",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "Post-Operative Care": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Power Electronics": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Power Systems (Generation, Transmission, Distribution)": {
+    "category_context": "Diploma in Electrical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Precision Instruments (Vernier Caliper, Micrometer)": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Principles of Management (Fayol's 14 Principles, Taylor's Scientific Management)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Product Designer": {
+    "category_context": "Design and Creative Fields",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Arts (Humanities)"
+    ],
+    "type": "Career"
+  },
+  "Production Supervisor (Mechanical, Chemical)": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Professional Accounting and Finance (Certified)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Career Field"
+  },
+  "Professional Certifications": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Education Path"
+  },
+  "Professional Certifications (Equivalent to Degree)": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Education Path"
+  },
+  "Professional Certifications (Post-12th Foundation Route)": {
+    "category_context": "General",
+    "streams": ["Commerce"],
+    "type": "Education Path"
+  },
+  "Professional Certifications (Post-12th)": {
+    "category_context": "General",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Education Path"
+  },
+  "Professional IT Certifications (e.g., CCNA, Red Hat, AWS Cloud Practitioner)": {
+    "category_context": "Advanced Technical Certifications",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Degree"
+  },
+  "Professor (University)": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Professor of Life Sciences (College/University)": {
+    "category_context": "Education and Writing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Programming in C/C++/Java/Python": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Programming with JavaScript": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Project Manager (PMP)": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Career"
+  },
+  "Properties of Bulk Matter (Elasticity, Fluid Mechanics, Surface Tension, Viscosity, Thermal Properties of Matter)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Psychiatric Nurse": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Psychological Disorders (Anxiety, Somatic, Dissociative, Mood, Schizophrenic, Substance-Use)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Psychology": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Psychology and Counselling": {
+    "category_context": "General",
+    "streams": [
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Arts (Humanities)"
+    ],
+    "type": "Career Field"
+  },
+  "Psychology: (Introduction to Psychology, Methods, Human Development, Sensory Processes, Learning, Memory, Motivation)": {
+    "category_context": "Optional Subject (e.g., Computer Science / Physical Education / Economics)",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Psychology: (What is Psychology?, Methods of Enquiry, Human Development, Sensory Processes, Learning, Human Memory, Motivation and Emotion, Psychological Disorders)": {
+    "category_context": "Optional Subject (e.g., Psychology / Biotechnology / Home Science / Mathematics)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Public Health Nutritionist": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Public Interest Lawyer": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Public Policy Analyst": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Public Prosecutor": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Public Relations (PR) Manager": {
+    "category_context": "Advertising and Public Relations (PR)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Public, Private, and Global Enterprises (MNCs, Public Sector, Joint Ventures)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Pump Operator": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Quality Control / Quality Assurance (QA/QC) Engineer": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Quantitative Analyst ('Quant')": {
+    "category_context": "Data Science and Analytics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Radiation Physics and Safety": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Radiographic Techniques (Positioning for X-Rays)": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Radiology Technician / Radiographer": {
+    "category_context": "Allied Health Sciences (Paramedical)",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Radiology Technician / Radiographer (X-Ray, CT, MRI)": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Radiotherapy Basics (in some courses)": {
+    "category_context": "Diploma in Radiology / X-Ray Technology (DMRT/DRT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Reading Comprehension (Literary and Non-Literary Texts)": {
+    "category_context": "English / Other Language (e.g., Hindi, Sanskrit, French, German)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Reading Comprehension (Unseen Passages, Note Making, Summarizing)": {
+    "category_context": "English",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Commerce"
+    ],
+    "type": "Topic"
+  },
+  "Recording of Transactions (Journal, Ledger, Cash Book, Subsidiary Books)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Redox Reactions and Electrochemistry (Electrochemical Cells, Nernst Equation, Electrolysis)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Refrigeration and AC Mechanic (RAC): (Refrigeration Cycle, Compressors, Condensers, Installation, Repair, Gas Charging)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Refrigeration and Air Conditioning (RAC)": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Registered Nurse (RN)": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Regulatory Affairs Specialist": {
+    "category_context": "Pharmacy",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Reinforced Concrete (RCC) Drawing (Civil)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Reproduction (Reproduction in Organisms, Sexual Reproduction in Flowering Plants, Human Reproduction, Reproductive Health)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Researcher (Academic/Corporate - PhD required)": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Researcher (Academic/Industrial)": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Researcher (PhD)": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Retail Manager / Store Manager": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Revit or other 3D modeling software (Basics)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Risk Advisory Consultant": {
+    "category_context": "Consulting",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Risk Analyst / Credit Analyst": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Risk Manager": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Risk Modeler": {
+    "category_context": "Actuarial Science (with Math)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Robotics Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "SEO / SEM Specialist": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Sales and Support (Medical Equipment)": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career Field"
+  },
+  "School Counsellor": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "School Teacher (TGT/PGT)": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Science Journalist": {
+    "category_context": "Education and Writing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Scientific Writer / Editor": {
+    "category_context": "Physical Sciences and Research",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Screenwriter": {
+    "category_context": "Media, Journalism, and Publishing",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Security Architect": {
+    "category_context": "Cybersecurity",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Self-Employment": {
+    "category_context": "General",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career Field"
+  },
+  "Self-Employment / Contractor": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "Sensory, Attentional and Perceptual Processes (Sensation, Perception, Attention)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Sericulturist (Silk Farming)": {
+    "category_context": "Agriculture and Allied Fields",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Service Advisor": {
+    "category_context": "Automotive Industry",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Service Engineer (Automobile, Electronics)": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Service Technician (for medical equipment)": {
+    "category_context": "Sales and Support (Medical Equipment)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Sets and Functions (Sets, Relations, Functions, Trigonometric Functions, Inverse Trigonometric Functions)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Sheet Metal Work": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Site Supervisor / Site Engineer (Civil)": {
+    "category_context": "Junior Engineer / Supervisor (Private Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Skilled Technician (Industrial / Manufacturing)": {
+    "category_context": "General",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career Field"
+  },
+  "Small Business and Entrepreneurship (Start-up India, MSME, Intellectual Property Rights - IPR)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Social Change and Development in India (Structural Change, Cultural Change, The Constitution and Social Change, Globalization, Mass Media)": {
+    "category_context": "Sociology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Social Entrepreneur": {
+    "category_context": "Entrepreneurship",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Social History (Caste, Gender, Tribal Societies)": {
+    "category_context": "History",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Social Media Manager": {
+    "category_context": "Digital Business and Marketing",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Social Responsibility and Business Ethics (CSR, Environmental Protection)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Social Sciences and Education": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Social Work and Development Sector": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career Field"
+  },
+  "Social Worker (Community, Medical, Psychiatric)": {
+    "category_context": "Social Work and Development Sector",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Sociologist": {
+    "category_context": "Academia, Research, and Teaching",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Sociology": {
+    "category_context": "Core Subject",
+    "streams": ["Arts (Humanities)"],
+    "type": "Subject"
+  },
+  "Soft Skills and Communication": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Software Developer / Engineer": {
+    "category_context": "Engineering",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Software Engineering": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Software Support Professional / Help Desk Analyst": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Solutions (Colligative Properties, Vapour Pressure)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Sources of Business Finance (Owned Funds, Borrowed Funds, Equity, Debt, Retained Earnings)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Specialized/Integrated Masters": {
+    "category_context": "General",
+    "streams": ["Arts (Humanities)"],
+    "type": "Education Path"
+  },
+  "Sports Nutritionist": {
+    "category_context": "Nutrition and Dietetics",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Sports Psychologist": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Staff Nurse": {
+    "category_context": "Nursing",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Staffing (Recruitment, Selection, Training, Development)": {
+    "category_context": "Business Studies",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Startup Founder (Tech, D2C, Services)": {
+    "category_context": "Entrepreneurship",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "State Administrative Services (e.g., SDM, DSP)": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "State Electricity Boards (Lineman, Wireman)": {
+    "category_context": "Government Jobs (Technician / Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "States of Matter (Gases, Liquids, Solids)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Statistician": {
+    "category_context": "Finance, Economics, and Actuarial Science",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)", "Commerce"],
+    "type": "Career"
+  },
+  "Statistics and Probability (Mean, Median, Mode, Variance, Standard Deviation, Correlation, Regression, Probability, Conditional Probability, Bayes' Theorem, Probability Distributions)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Statistics for Economics (Collection, Organisation, Presentation of Data - Tabular/Graphical, Measures of Central Tendency - Mean, Median, Mode, Measures of Dispersion - Standard Deviation, Variance, Correlation, Index Numbers - WPI, CPI)": {
+    "category_context": "Economics",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Statistics for Economics (Collection, Organisation, Presentation of Data, Measures of Central Tendency, Dispersion, Correlation, Index Numbers)": {
+    "category_context": "Economics",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Sterilization Procedures (Autoclaving, Fumigation)": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Stockbroker / Equity Trader": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Strength of Materials (SOM)": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Structural Mechanics / Theory of Structures (TOS)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Structural Organisation in Animals (Tissues, Cockroach/Earthworm/Frog Anatomy)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Supply Chain / Logistics Manager": {
+    "category_context": "Management and Administration",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Supply Chain Manager": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Surface Chemistry (Adsorption, Colloids, Emulsions)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Surgical Assistant Skills (Suturing, Draping)": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Surgical Instruments (Identification, Handling, Sterilization)": {
+    "category_context": "Diploma in Operation Theatre Technology (DOTT)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Topic"
+  },
+  "Surveying (Chain, Compass, Theodolite, Total Station)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Surveying and Levelling Basics (Civil)": {
+    "category_context": "Draughtsman (Civil / Mechanical)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Suspension and Steering Systems": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Sustainable / Green Architect": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Systems Analyst": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Tax Consultant": {
+    "category_context": "Consulting",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Tax Consultant (Direct and Indirect - GST)": {
+    "category_context": "Professional Accounting and Finance (Certified)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Tax Lawyer (GST, Income Tax)": {
+    "category_context": "Law (requires LLB)",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Technical Assistant in Defence (DRDO, Ordnance Factories)": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Technical Sales Manager": {
+    "category_context": "Management, Business, and Law",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Technical Support Engineer": {
+    "category_context": "Information Technology (IT) & Software",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Technical Writer": {
+    "category_context": "Language and Translation",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Technician / Technologist (in Hospitals/Labs)": {
+    "category_context": "General",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career Field"
+  },
+  "Technician in Defence (DRDO, Ordnance Factories)": {
+    "category_context": "Government Jobs (Technician / Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Technician in ISRO": {
+    "category_context": "Junior Engineer / Technician (Government Sector)",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Technician in PSUs (BHEL, GAIL, NTPC, etc.)": {
+    "category_context": "Government Jobs (Technician / Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Technician in Railways (ALP - Assistant Loco Pilot, Technician)": {
+    "category_context": "Government Jobs (Technician / Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Technology Consultant (Functional role)": {
+    "category_context": "Consulting",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Test Engineer (Software Testing)": {
+    "category_context": "IT and Software",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Textile Designer": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "The Living World (Diversity, Taxonomy, Classification)": {
+    "category_context": "Biology",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "Themes in Indian History (Harappan Civilization, Vedic Period, Mauryan, Gupta, Mughal Empire, Vijayanagara Empire, Colonialism, Nationalist Movement, Partition)": {
+    "category_context": "History",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Themes in World History (Early Societies, Empires - Roman/Greek, Nomadic Empires, Modernization - Industrial Revolution, World Wars)": {
+    "category_context": "History",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Theory Base of Accounting (Accounting Standards - Ind AS/IFRS basics)": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Theory of Machines (TOM)": {
+    "category_context": "Diploma in Mechanical Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Therapeutic Approaches (Psychodynamic, Behavioural, Cognitive, Humanistic, Biomedical, Yoga)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Therapist": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Therapist (CBT, Art, Family)": {
+    "category_context": "Psychology and Counselling",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Thermodynamics (Heat, Temperature, Laws of Thermodynamics, Kinetic Theory of Gases)": {
+    "category_context": "Physics",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Thermodynamics and Equilibrium (Enthalpy, Entropy, Gibbs Free Energy, Chemical Equilibrium, Ionic Equilibrium)": {
+    "category_context": "Chemistry",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)"
+    ],
+    "type": "Topic"
+  },
+  "Thinking (Problem Solving, Reasoning, Decision Making, Creative Thinking)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Toxicologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Trade Safety": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Trade Safety and Precautions": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Transformer Maintenance and Repair": {
+    "category_context": "Electrician",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Translator / Interpreter (Foreign Language)": {
+    "category_context": "Language and Translation",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Transmission Systems (Clutch, Gearbox, Propeller Shaft)": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Transportation Engineering (Highways, Railways)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Travel Consultant / Tour Operator": {
+    "category_context": "Hospitality, Travel, and Management",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Treasury Manager": {
+    "category_context": "Banking and Financial Services",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Trial Balance and Rectification of Errors": {
+    "category_context": "Accountancy",
+    "streams": ["Commerce"],
+    "type": "Topic"
+  },
+  "Turner / Machinist": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Turner: (Advanced Lathe Operations, Thread Cutting, CNC Lathe Programming Basics)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "UI/UX Designer": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "UI/UX Designer (User Interface / User Experience)": {
+    "category_context": "Design and Creative Arts",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "UI/UX Designer (with further certification)": {
+    "category_context": "Design and Draughting",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Career"
+  },
+  "Understanding Society (Social Structure, Stratification - Class/Caste/Gender, Social Change, Environment and Society)": {
+    "category_context": "Sociology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Urban Governance": {
+    "category_context": "Civil Services and Public Administration (UPSC, State PSC)",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Urban Planner / Urban Designer": {
+    "category_context": "Architecture and Planning",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "VFX Artist": {
+    "category_context": "Design and Creative Fields",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Career"
+  },
+  "Vectors and 3D Geometry (Vectors, Scalar and Vector Products, Lines, Planes)": {
+    "category_context": "Mathematics",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  },
+  "Vehicle Diagnostics and Repair": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Venture Capitalist (VC) Analyst": {
+    "category_context": "Entrepreneurship",
+    "streams": ["Commerce"],
+    "type": "Career"
+  },
+  "Veterinarian (Animal Doctor)": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Veterinary Pathologist": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Veterinary Researcher": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Veterinary Science": {
+    "category_context": "General",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career Field"
+  },
+  "Veterinary Surgeon": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Virologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Visual Basic for Applications (VBA)": {
+    "category_context": "COPA (Computer Operator and Programming Assistant)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Water Resources Engineering (Irrigation, Hydrology)": {
+    "category_context": "Diploma in Civil Engineering",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Web Development (HTML, CSS, JavaScript, PHP/Node.js)": {
+    "category_context": "Diploma in Computer Engineering / IT",
+    "streams": ["Vocational (Polytechnic Diploma)"],
+    "type": "Topic"
+  },
+  "Welder (Structural, Pipe)": {
+    "category_context": "Skilled Technician (Industrial / Manufacturing)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Welder: (Arc Welding, Gas Welding, TIG, MIG, Plasma Cutting, Reading Blueprints)": {
+    "category_context": "Other Trades (Examples)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Welding (Arc, Gas)": {
+    "category_context": "Fitter",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "What is Psychology? (Introduction, Branches, Methods)": {
+    "category_context": "Psychology",
+    "streams": ["Arts (Humanities)"],
+    "type": "Topic"
+  },
+  "Wheel Alignment Technician": {
+    "category_context": "Automotive Industry",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Career"
+  },
+  "Wheel Alignment and Balancing": {
+    "category_context": "Mechanic (Motor Vehicle - MMV)",
+    "streams": ["Vocational (ITI - Industrial Training Institute)"],
+    "type": "Topic"
+  },
+  "Wildlife Veterinarian": {
+    "category_context": "Veterinary Science",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "Writer / Author / Poet": {
+    "category_context": "Creative Arts and Performance",
+    "streams": ["Arts (Humanities)"],
+    "type": "Career"
+  },
+  "Writing Skills (Notice, Letter Writing - Formal/Informal, Report Writing, Article, Speech, Debate, Resume, Job Application)": {
+    "category_context": "English",
+    "streams": [
+      "Science (PCM - Physics, Chemistry, Mathematics)",
+      "Science (PCB - Physics, Chemistry, Biology)",
+      "Commerce"
+    ],
+    "type": "Topic"
+  },
+  "X-Ray Technician": {
+    "category_context": "Technician / Technologist (in Hospitals/Labs)",
+    "streams": ["Vocational (Paramedical Diploma/Certificate)"],
+    "type": "Career"
+  },
+  "Zoologist": {
+    "category_context": "Life Sciences and Research",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Career"
+  },
+  "s-Block, p-Block, d-Block, and f-Block Elements": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCB - Physics, Chemistry, Biology)"],
+    "type": "Topic"
+  },
+  "s-Block, p-Block, d-Block, and f-Block Elements (Hydrogen, Alkali Metals, Alkaline Earth Metals, Boron, Carbon, Nitrogen, Oxygen, Halogen, Noble Gases, Transition Metals)": {
+    "category_context": "Chemistry",
+    "streams": ["Science (PCM - Physics, Chemistry, Mathematics)"],
+    "type": "Topic"
+  }
+}
